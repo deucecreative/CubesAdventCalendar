@@ -4,7 +4,7 @@
  *
  * Licensed under the MIT license.
  * http://www.opensource.org/licenses/mit-license.php
- * 
+ *
  * Copyright 2016, Codrops
  * http://www.codrops.com
  */
@@ -14,7 +14,7 @@
 
 	// Helper vars and functions.
 	function extend( a, b ) {
-		for( var key in b ) { 
+		for( var key in b ) {
 			if( b.hasOwnProperty( key ) ) {
 				a[key] = b[key];
 			}
@@ -98,26 +98,26 @@
 
 		switch(dir) {
 			case 0 : // from/to top
-				animationSettings.rotateX = type === 1 ? -180 : 0; 
+				animationSettings.rotateX = type === 1 ? -180 : 0;
 				animationSettings.rotateY = 0;
-				break; 
+				break;
 			case 1 : // from/to right
-				animationSettings.rotateY = type === 1 ? -180 : 0; 
+				animationSettings.rotateY = type === 1 ? -180 : 0;
 				animationSettings.rotateX = 0;
-				break; 
+				break;
 			case 2 : // from/to bottom
-				animationSettings.rotateX = type === 1 ? 180 : 0; 
+				animationSettings.rotateX = type === 1 ? 180 : 0;
 				animationSettings.rotateY = 0;
-				break; 
+				break;
 			case 3 : // from/to left
-				animationSettings.rotateY = type === 1 ? 180 : 0; 
+				animationSettings.rotateY = type === 1 ? 180 : 0;
 				animationSettings.rotateX = 0;
 				break;
 		};
 
 		this.currentTransform = {
-			translateZ: animationSettings.translateZ, 
-			rotateX: animationSettings.rotateX, 
+			translateZ: animationSettings.translateZ,
+			rotateX: animationSettings.rotateX,
 			rotateY: animationSettings.rotateY
 		};
 
@@ -154,7 +154,7 @@
 	// From: https://codepen.io/noeldelgado/pen/pGwFx?editors=0110 by Noel Delgado (@noeldelgado).
 	Day.prototype._getDirection = function(ev) {
 		var obj = this.cube.querySelector('.cube__side--front'),
-			w = obj.offsetWidth, 
+			w = obj.offsetWidth,
 			h = obj.offsetHeight,
 			bcr = obj.getBoundingClientRect(),
 			x = (ev.pageX - (bcr.left + window.pageXOffset) - (w / 2) * (w > h ? (h / w) : 1)),
@@ -168,7 +168,7 @@
 	function Calendar(el) {
 		this.el = el;
 		this.calendarDays = [].slice.call(this.el.querySelectorAll('.cube'));
-		
+
 		// Let´s build the days/cubes structure.
 		this.cubes = document.createElement('div');
 		this.cubes.className = 'cubes';
@@ -202,7 +202,7 @@
 		this.dayPreview = document.createElement('h2');
 		this.dayPreview.className = 'title';
 		this.el.appendChild(this.dayPreview);
-		
+
 		this._initEvents();
 	}
 
@@ -269,7 +269,7 @@
 				if( isCurrent ) {
 					day.isRotated = false;
 				}
-				
+
 				anime({
 					targets: day.cube,
 					duration: 500,
@@ -303,7 +303,7 @@
 				};
 				clearTimeout(colortimeout);
 				instance.rotatetimeout = setTimeout(function() {
-					colortimeout = setTimeout(function() { self._changeBGColor(instance.color); }, 30);
+					// colortimeout = setTimeout(function() { self._changeBGColor(instance.color); }, 30);
 					instance._rotate(ev);
 					self._showPreviewTitle(instance.previewTitle, instance.number);
 					instance.isRotated = true;
@@ -316,7 +316,7 @@
 				clearTimeout(instance.rotatetimeout);
 				clearTimeout(colortimeout);
 				if( instance.isRotated ) {
-					colortimeout = setTimeout(function() { self._resetBGColor(); }, 35);
+					// colortimeout = setTimeout(function() { self._resetBGColor(); }, 35);
 					instance._rotate(ev);
 					self._hidePreviewTitle();
 					instance.isRotated = false;
@@ -377,14 +377,14 @@
 		var movement = {rx:3, ry:3},
 			rotX = 2 * movement.rx / this.cubes.offsetHeight * mousepos.y - movement.rx,
 			rotY = 2 * movement.ry / this.cubes.offsetWidth * mousepos.x - movement.ry;
-		
+
 		this.cubes.style.WebkitTransform = this.cubes.style.transform = 'rotate3d(-1,0,0,' + rotX + 'deg) rotate3d(0,1,0,' + rotY + 'deg)';
 	};
 
 	Calendar.prototype._showPreviewTitle = function(text, number) {
 		this.dayPreview.innerHTML = text;
 		this.dayPreview.setAttribute('data-number', parseInt(number+1));
-		
+
 		this.txtfx = new TextFx(this.dayPreview);
 		this.txtfx.hide();
 		this.dayPreview.style.opacity = 1;
@@ -494,13 +494,13 @@
 		});
 	};
 
-	Calendar.prototype._changeBGColor = function(color) {
-		bgEl.style.backgroundColor = color;
-	};
-
-	Calendar.prototype._resetBGColor = function() {
-		bgEl.style.backgroundColor = defaultBgColor;
-	};
+	// Calendar.prototype._changeBGColor = function(color) {
+	// 	bgEl.style.backgroundColor = color;
+	// };
+	//
+	// Calendar.prototype._resetBGColor = function() {
+	// 	bgEl.style.backgroundColor = defaultBgColor;
+	// };
 
 	// Snow obj. Based on // https://gist.github.com/OmShiv/4368164.
 	function Snow() {

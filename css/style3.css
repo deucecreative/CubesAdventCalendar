@@ -1,5 +1,5 @@
 body {
-	background: #9D1C21;
+	background: #1C2D3F;
 	color: #fceeb8;
 	font-family: 'BioRhyme', serif;
 }
@@ -13,7 +13,14 @@ a:focus {
 	color: #fceeb8;
 }
 
-.deuce-logo img {width:200px;}
+.deuce-logo {
+	margin-top: 12.5em;
+}
+
+.deuce-logo img {
+	width:12.5em;
+	position: absolute;
+}
 
 
 .codrops-header {

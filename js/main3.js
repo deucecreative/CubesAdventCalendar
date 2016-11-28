@@ -78,7 +78,7 @@
 			<div class="cube__side cube__side--bottom"></div>
 		</div>
 		*/
-		this.cube = document.createElement('div');
+		this.cube = document.createElement('a');
 		this.cube.className = this.isActive ? 'cube' : 'cube cube--inactive';
 		this.cube.innerHTML = '<div class="cube__side cube__side--back"></div><div class="cube__side cube__side--left"></div><div class="cube__side cube__side--right"></div><div class="cube__side cube__side--bottom"></div><div class="cube__side cube__side--top"></div><div class="cube__side cube__side--front"><div class="cube__number">' + (this.number+1) + '</div></div>';
 		this.currentTransform = {translateZ: 0, rotateX: 0, rotateY: 0};
@@ -333,16 +333,16 @@
 			self.isOpen = true;
 			self.currentDayIdx = instance.number;
 
-			// Hide the main container
-			anime({
-				targets: self.el,
-				duration: 1400,
-				easing: 'easeInOutExpo',
-				opacity: 0,
-				complete: function() {
-					self.isAnimating = false;
-				}
-			});
+			// // Hide the main container
+			// anime({
+			// 	targets: self.el,
+			// 	duration: 1400,
+			// 	easing: 'easeInOutExpo',
+			// 	opacity: 0,
+			// 	complete: function() {
+			// 		self.isAnimating = false;
+			// 	}
+			// });
 
 			for(var i = 0, totalDays = self.days.length; i < totalDays; ++i) {
 				var day = self.days[i],
@@ -367,6 +367,7 @@
 		instance.cube.querySelector('.cube__side--front').addEventListener('mouseenter', instance.mouseenterFn);
 		instance.cube.addEventListener('mouseleave', instance.mouseleaveFn);
 		instance.cube.addEventListener('click', instance.clickFn);
+		instance.cube.href = instance.number+1+'.html';
 		instance.cube.addEventListener('mousedown', function() {
 			clearTimeout(instance.rotatetimeout );
 		});
@@ -409,46 +410,46 @@
 		this.dayPreview.style.opacity = 0;
 	};
 
-	Calendar.prototype._showContent = function(day) {
-		// The content box for the clicked day.
-		var content = contents[this.currentDayIdx],
-			title = content.querySelector('.content__title'),
-			description = content.querySelector('.content__description'),
-			meta = content.querySelector('.content__meta');
-
-		content.classList.add('content__block--current');
-
-		day.titlefx.hide();
-		day.titlefx.show(day.titlefxSettings);
-
-		anime({
-			targets: [description, meta],
-			duration: 800,
-			delay: function(el, index) { return index === 0 ? 1000 : 1100 },
-			easing: 'easeOutExpo',
-			opacity: [0,1],
-			translateY: [100,0]
-		});
-
-		anime({
-			targets: backCtrl,
-			duration: 1100,
-			delay: 800,
-			easing: 'easeOutExpo',
-			opacity: [0,1],
-			translateY: [50,0]
-		});
-
-		contentNumber.innerHTML = this.currentDayIdx + 1;
-		anime({
-			targets: contentNumber,
-			duration: 500,
-			delay: 900,
-			easing: 'easeOutExpo',
-			opacity: [0,1],
-			translateX: [-200,0]
-		});
-	};
+	// Calendar.prototype._showContent = function(day) {
+	// 	// The content box for the clicked day.
+	// 	var content = contents[this.currentDayIdx],
+	// 		title = content.querySelector('.content__title'),
+	// 		description = content.querySelector('.content__description'),
+	// 		meta = content.querySelector('.content__meta');
+	//
+	// 	content.classList.add('content__block--current');
+	//
+	// 	day.titlefx.hide();
+	// 	day.titlefx.show(day.titlefxSettings);
+	//
+	// 	anime({
+	// 		targets: [description, meta],
+	// 		duration: 800,
+	// 		delay: function(el, index) { return index === 0 ? 1000 : 1100 },
+	// 		easing: 'easeOutExpo',
+	// 		opacity: [0,1],
+	// 		translateY: [100,0]
+	// 	});
+	//
+	// 	anime({
+	// 		targets: backCtrl,
+	// 		duration: 1100,
+	// 		delay: 800,
+	// 		easing: 'easeOutExpo',
+	// 		opacity: [0,1],
+	// 		translateY: [50,0]
+	// 	});
+	//
+	// 	contentNumber.innerHTML = this.currentDayIdx + 1;
+	// 	anime({
+	// 		targets: contentNumber,
+	// 		duration: 500,
+	// 		delay: 900,
+	// 		easing: 'easeOutExpo',
+	// 		opacity: [0,1],
+	// 		translateX: [-200,0]
+	// 	});
+	// };
 
 	Calendar.prototype._hideContent = function() {
 		var day = this.days[this.currentDayIdx],

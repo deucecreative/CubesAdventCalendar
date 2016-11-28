@@ -288,7 +288,7 @@
 				});
 			}
 		};
-		backCtrl.addEventListener('click', this.backToCalendarFn);
+		// backCtrl.addEventListener('click', this.backToCalendarFn);
 	};
 
 	Calendar.prototype._initDayEvents = function(day) {
@@ -469,14 +469,14 @@
 			translateX: -200
 		});
 
-		// The back button animation.
-		anime({
-			targets: backCtrl,
-			duration: 1000,
-			easing: 'easeInExpo',
-			opacity: 0,
-			translateY: 50
-		});
+		// // The back button animation.
+		// anime({
+		// 	targets: backCtrl,
+		// 	duration: 1000,
+		// 	easing: 'easeInExpo',
+		// 	opacity: 0,
+		// 	translateY: 50
+		// });
 
 		// The description and meta animation.
 		anime({
@@ -623,7 +623,7 @@
 		colortimeout,
 		contentEl = document.querySelector('.content'),
 		contents = contentEl.querySelectorAll('.content__block'),
-		backCtrl = contentEl.querySelector('.btn-back'),
+		// backCtrl = contentEl.querySelector('.btn-back'),
 		contentNumber = contentEl.querySelector('.content__number'),
 		isMobile = mobilecheck();
 

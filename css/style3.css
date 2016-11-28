@@ -126,6 +126,63 @@ a:focus {
 	left: 3vw;
 }
 
+.post {
+	background: #ffffff;
+	max-width: 900px;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 40px;
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+.post-title {
+	font-family: 'Roboto', sans-serif;
+	font-size: 34px;
+	font-weight: 700;
+	color: #1a1a1a;
+	text-align: center;
+	padding: 0 15px;
+	margin: 40px auto;
+	max-width: 700px;
+}
+
+.post h1,
+.post h2,
+.post h3,
+.post h4,
+.post h5,
+.post h6 {
+	color: #1a1a1a;
+	max-width: 700px;
+	margin: 20px auto;
+	font-family: 'Roboto', sans-serif;
+}
+
+.post p {
+	text-align: left;
+	line-height: 26px;
+	color: #1a1a1a;
+	max-width: 700px;
+	margin: 0 auto 20px;
+	font-family: 'Roboto', sans-serif;
+	display: inline-block;
+	font-size: 20px;
+	font-weight: 300;
+}
+
+.post em {
+	color: #1a1a1a;
+	max-width: 700px;
+	margin: 0 auto 20px;
+	font-family: 'Roboto', sans-serif;
+	display: block;
+}
+
+.post img {
+	margin: 20px 0;
+}
+
 @media screen and (max-width: 50.75em) {
 	.js .content__block {
 		padding: 4em 2em 0;
@@ -135,5 +192,19 @@ a:focus {
 	}
 	.content__number {
 		bottom: 30vh;
+	}
+}
+
+@media screen and (max-width: 950px) {
+	.post {
+		width: auto;
+    	margin: 40px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.post {
+		width: auto;
+    	margin: 20px;
 	}
 }

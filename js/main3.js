@@ -288,7 +288,7 @@
 				});
 			}
 		};
-		// backCtrl.addEventListener('click', this.backToCalendarFn);
+		backCtrl.addEventListener('click', this.backToCalendarFn);
 	};
 
 	Calendar.prototype._initDayEvents = function(day) {
@@ -333,16 +333,16 @@
 			self.isOpen = true;
 			self.currentDayIdx = instance.number;
 
-			// // Hide the main container
-			// anime({
-			// 	targets: self.el,
-			// 	duration: 1400,
-			// 	easing: 'easeInOutExpo',
-			// 	opacity: 0,
-			// 	complete: function() {
-			// 		self.isAnimating = false;
-			// 	}
-			// });
+			// Hide the main container
+			anime({
+				targets: self.el,
+				duration: 1400,
+				easing: 'easeInOutExpo',
+				opacity: 0,
+				complete: function() {
+					self.isAnimating = false;
+				}
+			});
 
 			for(var i = 0, totalDays = self.days.length; i < totalDays; ++i) {
 				var day = self.days[i],
@@ -367,7 +367,8 @@
 		instance.cube.querySelector('.cube__side--front').addEventListener('mouseenter', instance.mouseenterFn);
 		instance.cube.addEventListener('mouseleave', instance.mouseleaveFn);
 		instance.cube.addEventListener('click', instance.clickFn);
-		instance.cube.href = instance.number+1+'.html';
+		instance.cube.href = '#' + (instance.number + 1);
+		instance.cube.id = instance.number + 1;
 		instance.cube.addEventListener('mousedown', function() {
 			clearTimeout(instance.rotatetimeout );
 		});
@@ -410,46 +411,46 @@
 		this.dayPreview.style.opacity = 0;
 	};
 
-	// Calendar.prototype._showContent = function(day) {
-	// 	// The content box for the clicked day.
-	// 	var content = contents[this.currentDayIdx],
-	// 		title = content.querySelector('.content__title'),
-	// 		description = content.querySelector('.content__description'),
-	// 		meta = content.querySelector('.content__meta');
-	//
-	// 	content.classList.add('content__block--current');
-	//
-	// 	day.titlefx.hide();
-	// 	day.titlefx.show(day.titlefxSettings);
-	//
-	// 	anime({
-	// 		targets: [description, meta],
-	// 		duration: 800,
-	// 		delay: function(el, index) { return index === 0 ? 1000 : 1100 },
-	// 		easing: 'easeOutExpo',
-	// 		opacity: [0,1],
-	// 		translateY: [100,0]
-	// 	});
-	//
-	// 	anime({
-	// 		targets: backCtrl,
-	// 		duration: 1100,
-	// 		delay: 800,
-	// 		easing: 'easeOutExpo',
-	// 		opacity: [0,1],
-	// 		translateY: [50,0]
-	// 	});
-	//
-	// 	contentNumber.innerHTML = this.currentDayIdx + 1;
-	// 	anime({
-	// 		targets: contentNumber,
-	// 		duration: 500,
-	// 		delay: 900,
-	// 		easing: 'easeOutExpo',
-	// 		opacity: [0,1],
-	// 		translateX: [-200,0]
-	// 	});
-	// };
+	Calendar.prototype._showContent = function(day) {
+		// The content box for the clicked day.
+		var content = contents[this.currentDayIdx],
+			title = content.querySelector('.content__title'),
+			description = content.querySelector('.content__description'),
+			meta = content.querySelector('.content__meta');
+
+		content.classList.add('content__block--current');
+
+		day.titlefx.hide();
+		day.titlefx.show(day.titlefxSettings);
+
+		anime({
+			targets: [description, meta],
+			duration: 800,
+			delay: function(el, index) { return index === 0 ? 1000 : 1100 },
+			easing: 'easeOutExpo',
+			opacity: [0,1],
+			translateY: [100,0]
+		});
+
+		anime({
+			targets: backCtrl,
+			duration: 1100,
+			delay: 800,
+			easing: 'easeOutExpo',
+			opacity: [0,1],
+			translateY: [50,0]
+		});
+
+		contentNumber.innerHTML = this.currentDayIdx + 1;
+		anime({
+			targets: contentNumber,
+			duration: 500,
+			delay: 900,
+			easing: 'easeOutExpo',
+			opacity: [0,1],
+			translateX: [-200,0]
+		});
+	};
 
 	Calendar.prototype._hideContent = function() {
 		var day = this.days[this.currentDayIdx],
@@ -469,14 +470,14 @@
 			translateX: -200
 		});
 
-		// // The back button animation.
-		// anime({
-		// 	targets: backCtrl,
-		// 	duration: 1000,
-		// 	easing: 'easeInExpo',
-		// 	opacity: 0,
-		// 	translateY: 50
-		// });
+		// The back button animation.
+		anime({
+			targets: backCtrl,
+			duration: 1000,
+			easing: 'easeInExpo',
+			opacity: 0,
+			translateY: 50
+		});
 
 		// The description and meta animation.
 		anime({
@@ -495,13 +496,13 @@
 		});
 	};
 
-	// Calendar.prototype._changeBGColor = function(color) {
-	// 	bgEl.style.backgroundColor = color;
-	// };
-	//
-	// Calendar.prototype._resetBGColor = function() {
-	// 	bgEl.style.backgroundColor = defaultBgColor;
-	// };
+	Calendar.prototype._changeBGColor = function(color) {
+		bgEl.style.backgroundColor = color;
+	};
+
+	Calendar.prototype._resetBGColor = function() {
+		bgEl.style.backgroundColor = defaultBgColor;
+	};
 
 	// Snow obj. Based on // https://gist.github.com/OmShiv/4368164.
 	function Snow() {
@@ -623,12 +624,21 @@
 		colortimeout,
 		contentEl = document.querySelector('.content'),
 		contents = contentEl.querySelectorAll('.content__block'),
-		// backCtrl = contentEl.querySelector('.btn-back'),
+		backCtrl = contentEl.querySelector('.btn-back'),
 		contentNumber = contentEl.querySelector('.content__number'),
 		isMobile = mobilecheck();
 
 	function init() {
 		layout();
+
+		// Allow anchor links to trigger animating to display specific cube content.
+		if( window.location.hash ) {
+			var cube = document.getElementById(window.location.hash.substring(1));
+
+			if( cube ) {
+				cube.click();
+			}
+		}
 	}
 
 	function layout() {

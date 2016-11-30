@@ -18,12 +18,12 @@ $email = isset( $_GET['email'] ) ? $_GET['email'] : '';
 		<!-- <link rel="stylesheet" type="text/css" href="css/common.css" /> -->
 		<link rel="stylesheet" type="text/css" href="css/subscribe.css" />
 
-		<link href="http://fonts.googleapis.com/css?family=Lato:900&amp;subset=latin" type="text/css" rel="stylesheet">
-		<link href="http://css.createsend1.com/css/reset.min.css?h=8A4FE634ppap" media="screen,projection" rel="stylesheet" type="text/css">
-		<link href="http://css.createsend1.com/css/hosted-subscribe.min.css?h=5AF3C788ppap" media="screen,projection" rel="stylesheet" type="text/css">
+		<link href="//fonts.googleapis.com/css?family=Lato:900&amp;subset=latin" type="text/css" rel="stylesheet">
+		<link href="//css.createsend1.com/css/reset.min.css?h=8A4FE634ppap" media="screen,projection" rel="stylesheet" type="text/css">
+		<link href="//css.createsend1.com/css/hosted-subscribe.min.css?h=5AF3C788ppap" media="screen,projection" rel="stylesheet" type="text/css">
 
 		<!--[if IE]>
-		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]--><script>document.documentElement.className = 'js';</script>
 	</head>
 	<body>
@@ -37,7 +37,7 @@ $email = isset( $_GET['email'] ) ? $_GET['email'] : '';
 					</header>
 
 					<section id="container" class="large ko-absorbclicks">
-						<form action="http://campaign.mailshooter.co.uk/t/r/s/kkhisi/" method="post" id="subForm">
+						<form action="//campaign.mailshooter.co.uk/t/r/s/kkhisi/" method="post" id="subForm">
 							<article class="body">
 								<p>
 									<label class="ko-label" for="fieldName">Name</label>

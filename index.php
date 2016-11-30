@@ -14,7 +14,7 @@
 		<link rel="stylesheet" type="text/css" href="css/common.css" />
 		<link rel="stylesheet" type="text/css" href="css/style3.css" />
 		<!--[if IE]>
-		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]--><script>document.documentElement.className = 'js';</script>
 	</head>
 	<body>

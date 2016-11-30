@@ -325,6 +325,10 @@
 		}
 		// Day/Cube click event.
 		instance.clickFn = function(ev) {
+			if( !instance.isActive ) {
+				window.location.hash = "";
+			}
+
 			// If the day is inactive or if the calendar is currently animating then do nothing.
 			if( !instance.isActive || self.isAnimating ) {
 				return false;

@@ -21,32 +21,32 @@
 		<main>
 			<div class="calendar-wrap">
 				<div class="calendar">
-					<div class="deuce-logo"><img src="https://deucecreative.co.uk/logo.png"></div>
-					<div class="cube" data-bg-color="#1c2d3f" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#cc0019" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#1c2d3f" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#cc0019" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#1c2d3f" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#cc0019" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#1c2d3f" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#cc0019" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#1c2d3f" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#cc0019" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#1c2d3f" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#cc0019" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#1c2d3f" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#cc0019" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#1c2d3f" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#cc0019" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#1c2d3f" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#cc0019" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#1c2d3f" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#cc0019" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#1c2d3f" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#cc0019" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#6161616" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#6161616" data-title="Coming soon"></div>
-					<div class="cube" data-bg-color="#6161616" data-title="Coming soon"></div>
+					<div class="deuce-logo"><img src="img/deuce-advent-logo.png"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/01/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/02/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/03/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/04/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/05/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/06/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/07/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/08/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/09/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/10/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/11/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/13/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/14/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/16/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/17/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/18/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/19/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/20/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/21/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/22/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/23/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/24/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/25/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
 				</div>
 				<div class="content">
 					<div class="content__block">
@@ -154,13 +154,28 @@
 						<p class="content__description">Happy slaves are the bitterest enemies of freedom.</p>
 						<p class="content__meta">Marie von Ebner-Eschenbach</p>
 					</div>
-					<!-- <div class="content__block">
+					<div class="content__block">
 						<h3 class="content__title">Better World</h3>
 						<p class="content__description">If you assume that there is no hope, you guarantee that there will be no hope. If you assume that there is an instinct for freedom, that there are opportunities to change things, then there is a possibility that you can contribute to making a better world.</p>
 						<p class="content__meta">Noam Chomsky</p>
-					</div> -->
+					</div>
+					<div class="content__block">
+						<h3 class="content__title">Better World</h3>
+						<p class="content__description">If you assume that there is no hope, you guarantee that there will be no hope. If you assume that there is an instinct for freedom, that there are opportunities to change things, then there is a possibility that you can contribute to making a better world.</p>
+						<p class="content__meta">Noam Chomsky</p>
+					</div>
+					<div class="content__block">
+						<h3 class="content__title">Better World</h3>
+						<p class="content__description">If you assume that there is no hope, you guarantee that there will be no hope. If you assume that there is an instinct for freedom, that there are opportunities to change things, then there is a possibility that you can contribute to making a better world.</p>
+						<p class="content__meta">Noam Chomsky</p>
+					</div>
+					<div class="content__block">
+						<h3 class="content__title">Better World</h3>
+						<p class="content__description">If you assume that there is no hope, you guarantee that there will be no hope. If you assume that there is an instinct for freedom, that there are opportunities to change things, then there is a possibility that you can contribute to making a better world.</p>
+						<p class="content__meta">Noam Chomsky</p>
+					</div>
 					<div class="content__number">0</div>
-					<button class="btn-back" aria-label="Back to the grid view">&crarr;</button>
+					<a href="" class="btn-back" aria-label="Back to the grid view">&crarr;</a>
 				</div><!-- /content -->
 			</div>
 		</main>

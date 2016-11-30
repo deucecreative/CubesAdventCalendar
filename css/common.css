@@ -500,6 +500,7 @@ main {
 	border: 0;
 	border: 2px solid;
 	background: none;
+	text-align: center;
 }
 
 .btn-back:focus {

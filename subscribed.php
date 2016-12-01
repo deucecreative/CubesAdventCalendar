@@ -56,7 +56,7 @@ $email = isset( $_GET['email'] ) ? $_GET['email'] : '';
 
 					<header class="ko-header" id="header">
 						<h1 style="visibility: visible;" class="ko-heading lato">Thank You</h1><img style="display: none;" class="ko-heading-image" src="">
-						<h2>We'll send you one tip a day as we the countdown to Christmas.</h2>
+						<h2>We'll send you one tip a day as we countdown to Christmas.</h2>
 					</header>
 
 					<div class="deuce-logo">

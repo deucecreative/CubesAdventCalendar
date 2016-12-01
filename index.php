@@ -35,9 +35,11 @@
 	</head>
 	<body>
 		<main>
+			<div class="deuce-logo">
+				<img src="img/deuce-advent-logo.png">
+			</div>
 			<div class="calendar-wrap">
 				<div class="calendar">
-					<div class="deuce-logo"><img src="img/deuce-advent-logo.png"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/01/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/02/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/03/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>

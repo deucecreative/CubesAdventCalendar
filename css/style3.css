@@ -15,11 +15,12 @@ a:focus {
 
 .deuce-logo {
 	margin-top: 12.5em;
-	padding: 0 0 20px 25px;
+	padding: 0 calc((100vw - (7 * (7vw + 1vw)))/2) 4%;
 }
 
 .deuce-logo img {
-	width:12.5em;
+	width: 100%;
+	max-width: 23%;
 	position: absolute;
 }
 
@@ -42,6 +43,7 @@ a:focus {
 .calendar {
 	-webkit-perspective: 2500px;
 	perspective: 2500px;
+	overflow: visible;
 }
 
 .cube__side,
@@ -193,6 +195,12 @@ a:focus {
 	}
 	.content__number {
 		bottom: 30vh;
+	}
+	.deuce-logo {
+		padding: 0 calc((100vw - (7 * (12vw + 1vw)))/2) 7%;
+	}
+	.deuce-logo img {
+		max-width: 37%;
 	}
 }
 

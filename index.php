@@ -9,7 +9,7 @@
 		<meta name="keywords" content="advent calendar, web, html template, 3d, cubes, css, javascript, anime.js" />
 		<meta name="author" content="Codrops" />
 		<link rel="shortcut icon" href="favicon.ico">
-		<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|BioRhyme:400,700" rel="stylesheet" />
+		<link href="https://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Condensed:400,700|BioRhyme:400,700|Lato:400,700" rel="stylesheet" />
 		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
 		<link rel="stylesheet" type="text/css" href="css/common.css" />
 		<link rel="stylesheet" type="text/css" href="css/style3.css" />

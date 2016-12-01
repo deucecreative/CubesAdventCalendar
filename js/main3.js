@@ -189,7 +189,7 @@
 
 			if( content !== undefined ) {
 				var contentTitle = contents[pos].querySelector('.content__title');
-				day._setContentTitleFx(contentTitle);
+				// day._setContentTitleFx(contentTitle);
 			}
 
 			self.days.push(day);
@@ -247,6 +247,10 @@
 		}
 
 		this.backToCalendarFn = function(ev) {
+			if( !self.isOpen ) {
+				window.location.hash = "";
+			}
+
 			// If the calendar is currently animating then do nothing.
 			if( !self.isOpen || self.isAnimating ) {
 				return false;
@@ -325,10 +329,6 @@
 		}
 		// Day/Cube click event.
 		instance.clickFn = function(ev) {
-			if( !instance.isActive ) {
-				window.location.hash = "";
-			}
-
 			// If the day is inactive or if the calendar is currently animating then do nothing.
 			if( !instance.isActive || self.isAnimating ) {
 				return false;
@@ -336,6 +336,7 @@
 			self.isAnimating = true;
 			self.isOpen = true;
 			self.currentDayIdx = instance.number;
+			document.body.className = 'opening';
 
 			// Hide the main container
 			anime({
@@ -345,6 +346,7 @@
 				opacity: 0,
 				complete: function() {
 					self.isAnimating = false;
+					document.body.className = 'open';
 				}
 			});
 
@@ -424,8 +426,8 @@
 
 		content.classList.add('content__block--current');
 
-		day.titlefx.hide();
-		day.titlefx.show(day.titlefxSettings);
+		// day.titlefx.hide();
+		// day.titlefx.show(day.titlefxSettings);
 
 		anime({
 			targets: [description, meta],
@@ -636,19 +638,19 @@
 		layout();
 
 		// Allow anchor links to trigger animating to display specific cube content.
-		if( window.location.hash ) {
+		if( window.location.hash && document.getElementById(window.location.hash.substring(1)) ) {
 			var cube = document.getElementById(window.location.hash.substring(1));
 
 			if( cube ) {
 				cube.click();
 				settings.snow = false;
 			}
-		}
-
-		// If settings.snow === true then create the canvas element for the snow effect.
-		if( settings.snow ) {
-			var snow = new Snow();
-			bgEl = snow.canvas;
+		} else {
+			// If settings.snow === true then create the canvas element for the snow effect.
+			if( settings.snow ) {
+				var snow = new Snow();
+				bgEl = snow.canvas;
+			}
 		}
 	}
 

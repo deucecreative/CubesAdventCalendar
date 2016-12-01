@@ -35,9 +35,12 @@ a:focus {
 	/*margin-top: 0;*/
 }
 
+.js .opening .content {
+	position: relative;
+}
+
 .js .open .content {
 	overflow: visible;
-	position: static;
 }
 
 .codrops-header {
@@ -122,7 +125,8 @@ a:focus {
 .js .content__block {
 	width: 100%;
 	padding: 0 10vw 0 20vw;
-	/*font-family: 'Lato', serif;*/
+	font-family: 'Lato', serif;
+	height: auto;
 }
 
 .js .content__description {
@@ -233,6 +237,10 @@ a:focus {
 
 	.deuce-logo img {
 		max-width: 37%;
+	}
+
+	.content__title {
+		font-size: 7vw;
 	}
 }
 

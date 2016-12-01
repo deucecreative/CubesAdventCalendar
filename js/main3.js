@@ -641,17 +641,19 @@
 
 			if( cube ) {
 				cube.click();
+				settings.snow = false;
 			}
 		}
-	}
 
-	function layout() {
-		new Calendar(calendarEl);
 		// If settings.snow === true then create the canvas element for the snow effect.
 		if( settings.snow ) {
 			var snow = new Snow();
 			bgEl = snow.canvas;
 		}
+	}
+
+	function layout() {
+		new Calendar(calendarEl);
 	}
 
 	init();

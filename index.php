@@ -79,14 +79,26 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Impossible</h3>
-						<p class="content__description">To be content with little is difficult; to be content with much, impossible.</p>
-						<p class="content__meta">Marie von Ebner-Eschenbach</p>
+						<h3 class="content__title">What Are Featured Snippets and How Could They Help My Business?</h3>
+						<div class="content__description">
+							<p>Have you ever asked Google a 'question' and noticed that the first listing in the search results is in a special format, containing the complete answer to your question (hopefully), along with a link to the site that answered it?</p>
+							<p>Well, this is what Google calls a 'featured snippet', and the good news is that anyone can have a chance of providing the answer to the searcher's question – putting their site at that coveted top spot in the listings.</p>
+							<p>If your site contains any 'FAQ' type content, then you would be well-advised to make sure that it is 'marked-up' with some special code tags so that Google can get a better idea of what the content is about – and with a bit of luck, feature it in its search results pages.</p>
+							<p>For more information on how to implement this on your site, as well as seeing a great example of it in action, do a Google search for 'what is schema markup?'.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Everything</h3>
-						<p class="content__description">The things you own end up owning you. It's only after you lose everything that you're free to do anything.</p>
-						<p class="content__meta">Chuck Palahniuk</p>
+						<h3 class="content__title">Should I Consider Using Video To Market My Business?</h3>
+						<div class="content__description">
+							<p>Absolutely. If content was king in 2016, video is likely to take the crown in 2017.</p>
+							<p>YouTube reports that mobile video consumption rises 100% every year, with a third of all online activity being spent watching video.</p>
+							<p>You've no doubt noticed how quickly video has infiltrated Facebook, with seemingly every other item in your newsfeed being a video doing it's very best to steal your attention.</p>
+							<p>Good quality video no longer has to cost the earth – most of us carry around a high-definition video camera in our pockets that is more than capable of producing short bite-sized pieces of content that can be quickly and easily shared across your social media channels and in your email marketing.</p>
+							<p>In fact, video in email can lead to a 200-300% increase in click-through rates, and including video on a landing page can increase conversion by 80%.</p>
+							<p>Why not think about how you could utilise video in your online marketing? Maybe a demo of your latest product, or a walk-through of your showroom? Or maybe just something fun to show the personal side of your company.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
 						<h3 class="content__title">Hung Up</h3>

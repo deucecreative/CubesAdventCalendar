@@ -68,9 +68,15 @@
 				</div>
 				<div class="content">
 					<div class="content__block">
-						<h3 class="content__title">Peaceful World</h3>
-						<p class="content__description">If everyone demanded peace instead of another television set, then there'd be peace.</p>
-						<p class="content__meta">John Lennon</p>
+						<h3 class="content__title">Why is a Mobile-Friendly Website Absolutely Essential?</h3>
+						<div class="content__description">
+							<p>Mobile devices have transformed the way consumers explore products and research their most important purchases.</p>
+							<p>Research conducted by Nielsen, xAd, and Telmetrics suggests that nearly half of the users they surveyed rely exclusively on their mobile devices for pre-purchase research, and that 30% of smartphone users (and 25% of tablet users) have immediate needs and purchase within an hour.</p>
+							<p>However, Google research has shown that 61% of users are unlikely to return to a mobile site they had trouble accessing – with 40% visit a competitor's site instead.</p>
+							<p>Not only can a mobile-unfriendly site negatively affect your visitors' experience, it can also harm your search engine rankings.  Earlier this year, Google rolled out an update to their algorithm that gives mobile-friendly sites a ranking boost in the search results pages.</p>
+							<p>Having a mobile-friendly website is no longer just an option – it's a requirement. If your site has not been designed with mobile browsing in mind, this should without a doubt be the first thing you address in your 2017 marketing strategy.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
 						<h3 class="content__title">Impossible</h3>

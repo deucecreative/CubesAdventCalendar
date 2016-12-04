@@ -113,7 +113,7 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Why Is Site Speed Important?</h3>
+						<h3 class="content__title">Why is Site Speed Important?</h3>
 						<div class="content__description">
 							<p>Site speed, or more accurately, page load time, is a critical measure that can influence not only visitor behaviour, but also your search engine rankings.</p>
 							<p>Website pages with long load times tend to have a higher bounce rate (the percentage of visitors who leave a site without visiting another page), and longer load times have also been shown to negatively affect conversions.</p>

@@ -101,9 +101,16 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Hung Up</h3>
-						<p class="content__description">A lot of people get so hung up on what they can't have that they don't think for a second about whether they really want it.</p>
-						<p class="content__meta">Lionel Shriver</p>
+						<h3 class="content__title">Do Reviews Matter?</h3>
+						<div class="content__description">
+							<p>If you're looking to increase leads, a crucial first step would be to start earning more online customer reviews for your business.</p>
+							<p>The majority of people begin their buying journey with a Google search. They scan the results looking for a reason to click. As simple as it sounds, if your company has more reviews than your competitors, there’s a good chance you’ll be the one that they are drawn to first.</p>
+							<p>Reviews are about more than just commanding attention in search. Good customer reviews boost confidence in your brand. When a real person backs up the claims you’ve made on your website about your amazing service, it has a much bigger impact then when you say it yourself.</p>
+							<p>By gaining a steady flow of online customer reviews about your business, you’ll be increasing Google’s confidence in your brand too, which will naturally lead to a positive increase to your rankings.</p>
+							<p>So online reviews really do matter, and play a critical role in a buyer's decision-making process and willingness to buy.</p>
+							<p>Start earning reviews by asking a handful of your customers to give your business some feedback via your Google 'My Business' page, Facebook page, or Yelp page – and further increase your chances of turning those browsers into buyers.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
 						<h3 class="content__title">Live Freely</h3>

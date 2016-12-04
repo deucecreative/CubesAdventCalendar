@@ -113,9 +113,17 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Live Freely</h3>
-						<p class="content__description">It is the preoccupation with possessions, more than anything else that prevents us from living freely and nobly.</p>
-						<p class="content__meta">Bertrand Russell</p>
+						<h3 class="content__title">Why Is Site Speed Important?</h3>
+						<div class="content__description">
+							<p>Site speed, or more accurately, page load time, is a critical measure that can influence not only visitor behaviour, but also your search engine rankings.</p>
+							<p>Website pages with long load times tend to have a higher bounce rate (the percentage of visitors who leave a site without visiting another page), and longer load times have also been shown to negatively affect conversions.</p>
+							<p>Psychologically, high latency and load times between a visitor performing an action and getting a response triggers a brief period of anxiety, during which time the user is momentarily left in the dark — powerless and confused — caught between seams.</p>
+							<p>This anxiety can quickly build up to create a poor user experience that will drive the user away from your website and leave them with a negative memory of your brand.</p>
+							<p>Google also state that site speed is one of the signals they use in their search ranking algorithm, meaning that if your site is consistently slow to load you will be penalised in the search results.</p>
+							<p>According to a recent study from Microsoft, people now generally lose concentration after eight seconds, highlighting the affects of an increasingly digitalized lifestyle on the brain.</p>
+							<p>With human attention spans supposedly now shorter than those of goldfish, you need to be doing all you can to keep your visitors engaged and on your site – else risk losing them to a competitor.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
 						<h3 class="content__title">Tolerable Planet</h3>

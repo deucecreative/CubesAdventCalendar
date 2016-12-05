@@ -126,9 +126,16 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Tolerable Planet</h3>
-						<p class="content__description">What is the use of a house if you haven't got a tolerable planet to put it on?</p>
-						<p class="content__meta">Henry David Thoreau</p>
+						<h3 class="content__title">What is a call-to-action and how will it benefit my business?</h3>
+						<div class="content__description">
+							<p>You created your website with a specific goal in mind. Maybe to generate more enquiries, increase sales or entice more visitors to your shop. Whatever your ambition, if your site lacks a strong call-to-action, you'll have little luck in achieving that goal.</p>
+							<p>In web terms, a call-to-action, or CTA, is most often a stand-out message accompanied by a button that prompts the visitor to do something depending on their place in the decision making process.</p>
+							<p>Here's a few examples. A transitional CTA for visitors that are undecided might be 'Join Our Newsletter' or 'Download Our Guide'. A direct CTA, for committed customers, would be 'Sign Up Now', 'Buy Now' or 'Get Started'.</p>
+							<p>If your CTA is cluttered within a page, it will only lead to confusion. Provide space and clarity.</p>
+							<p>With so many messages fighting for attention, don't make your customers work hard – clearly direct them and get better results.</p>
+							<p>So in true CTA fashion, if you like our tips so far, follow us on Facebook, Twitter or Instagram.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
 						<h3 class="content__title">Normal</h3>

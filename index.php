@@ -5,9 +5,14 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Happy Christmas from Deuce</title>
-		<meta name="description" content="An Advent calendar packed full of bite-sized digital marketing tips that will ensure your business starts 2017 in great shape." />
+		<meta name="description" content="We want to help you keep your business healthy this winter – so instead of chocolate, we've filled our advent calendar with 25 bite-sized digital marketing tips that will ensure your business starts 2017 in great shape." />
 		<meta name="keywords" content="advent calendar, web, html, 3d, cubes, css, javascript, anime.js" />
 		<meta name="author" content="Deuce Creative" />
+		<meta property="og:title" content="Deuce Creative's 2016 Advent Calendar" />
+		<meta property="og:description" content="We want to help you keep your business healthy this winter – so instead of chocolate, we've filled our advent calendar with 25 bite-sized digital marketing tips that will ensure your business starts 2017 in great shape." />
+		<meta property="og:url" content="https://deucecreative.co.uk/advent2016/" />
+		<meta property="og:image" content="https://deucecreative.co.uk/advent2016/img/thumb@2x.gif" />
+		<meta property="fb:app_id" content="111226542230916" />
 		<link rel="shortcut icon" href="favicon.ico">
 		<link href="https://fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Condensed:400,700|BioRhyme:400,700|Lato:400,700" rel="stylesheet" />
 		<link rel="stylesheet" type="text/css" href="css/normalize.css" />

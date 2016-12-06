@@ -54,6 +54,11 @@ a:focus {
 	font-family: 'Roboto Condensed', sans-serif;
 }
 
+.content__description a {
+	color: #fff;
+	text-decoration: underline;
+}
+
 .codrops-demos a.current-demo {
 	color: #fceeb8;
 }

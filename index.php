@@ -143,9 +143,17 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Normal</h3>
-						<p class="content__description">Normal is getting dressed in clothes that you buy for work and driving through traffic in a car that you are still paying for - in order to get to the job you need to pay for the clothes and the car, and the house you leave vacant all day so you can afford to live in it.</p>
-						<p class="content__meta">Ellen Goodman</p>
+						<h3 class="content__title">How important is website security?</h3>
+						<div class="content__description">
+							<p>The importance of website security is something that's often overlooked until it's too late.</p>
+							<p>We are increasingly hearing about high-profile sites getting hacked and customer data being stolen, yet it still seems to be considered as one of those 'it won't happen to me' type scenarios.</p>
+							<p>Granted, you might not feel like anyone would have a reason to hack your site. Maybe your site doesn't store any customer data, so you don't feel it would be target. But the majority of sites that are attacked on a daiy basis are done simply to demonstrate the hackers ability or to promote a political message. They often won't target a specific site, preferring instead to just scan the 'net for insecure hosting servers – and then break in once they find one.</p>
+							<p>Imagine if one of your customers arrived on your site one day to see <a href="https://goo.gl/VITJrw" target="_blank">a screen like this</a>? It probably wouldn't leave them with the warm fuzzy feeling that you'd like them to have whenever they interact with your brand.</p>
+							<p>And we can tell you that we've seen this happen on more than one occasion over the years – usually to clients using budget web hosting – so it pays to use a good quality hosting service that takes security seriously.</p>
+							<p>Another method that hackers often use to gain access to websites is through security 'holes' in unpatched website code. Always make sure that your CMS and plugins are kept up-to-date with the latest versions in order to minimise this risk.</p>
+							<p>Improving site security might not seem like a marketing tip – but the consequences of not doing it could severely damage your brand.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
 						<h3 class="content__title">Superhero</h3>

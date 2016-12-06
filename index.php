@@ -145,13 +145,13 @@
 					<div class="content__block">
 						<h3 class="content__title">How important is website security?</h3>
 						<div class="content__description">
-							<p>The importance of website security is something that's often overlooked until it's too late.</p>
-							<p>We are increasingly hearing about high-profile sites getting hacked and customer data being stolen, yet it still seems to be considered as one of those 'it won't happen to me' type scenarios.</p>
+							<p>Just like insurance, the importance of website security is something that's often undervalued until the worst happens.</p>
+							<p>No doubt you've heard increasing reports recently of high-profile sites getting hacked and customer data being stolen – yet it still seems to be considered as one of those 'it won't happen to me' type scenarios.</p>
 							<p>Granted, you might not feel like anyone would have a reason to hack your site. Maybe your site doesn't store any customer data, so you don't feel it would be target. But the majority of sites that are attacked on a daiy basis are done simply to demonstrate the hackers ability or to promote a political message. They often won't target a specific site, preferring instead to just scan the 'net for insecure hosting servers – and then break in once they find one.</p>
-							<p>Imagine if one of your customers arrived on your site one day to see <a href="https://goo.gl/VITJrw" target="_blank">a screen like this</a>? It probably wouldn't leave them with the warm fuzzy feeling that you'd like them to have whenever they interact with your brand.</p>
-							<p>And we can tell you that we've seen this happen on more than one occasion over the years – usually to clients using budget web hosting – so it pays to use a good quality hosting service that takes security seriously.</p>
+							<p>Imagine if one of your customers arrived on your site one day to be greeted by something like <a href="https://goo.gl/VITJrw" target="_blank">this</a>? It probably wouldn't leave them with the warm fuzzy feeling that you'd like them to have whenever they interact with your brand.</p>
+							<p>Believe it or not, we've seen this happen on more than one occasion over the years – usually to sites hosted on low-budget shared hosting servers – so it pays dividends to use a good quality managed hosting service that takes security seriously.</p>
 							<p>Another method that hackers often use to gain access to websites is through security 'holes' in unpatched website code. Always make sure that your CMS and plugins are kept up-to-date with the latest versions in order to minimise this risk.</p>
-							<p>Improving site security might not seem like a marketing tip – but the consequences of not doing it could severely damage your brand.</p>
+							<p>Improving site security might not seem like a marketing tip – but the consequences of not doing it could severely damage your brand, not to mention leaving your site offline unable to earn you any business.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>

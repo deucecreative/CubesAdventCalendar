@@ -131,7 +131,7 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">What is a call-to-action and how will it benefit my business?</h3>
+						<h3 class="content__title">What Is a Call-to-Action and How Will It Benefit My Business?</h3>
 						<div class="content__description">
 							<p>You created your website with a specific goal in mind. Maybe to generate more enquiries, increase sales or entice more visitors to your shop. Whatever your ambition, if your site lacks a strong call-to-action, you'll have little luck in achieving that goal.</p>
 							<p>In web terms, a call-to-action, or CTA, is most often a stand-out message accompanied by a button that prompts the visitor to do something depending on their place in the decision making process.</p>
@@ -143,7 +143,7 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">How important is website security?</h3>
+						<h3 class="content__title">How Important Is Website Security?</h3>
 						<div class="content__description">
 							<p>Just like insurance, the importance of website security is something that's often undervalued until the worst happens.</p>
 							<p>No doubt you've heard increasing reports recently of high-profile sites getting hacked and customer data being stolen – yet it still seems to be considered as one of those 'it won't happen to me' type scenarios.</p>
@@ -156,7 +156,7 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">What are web analytics and why are they important?</h3>
+						<h3 class="content__title">What Are Web Analytics and Why Are They Important?</h3>
 						<div class="content__description">
 							<p>Web analytics allow you to measure and review how your visitors arrive on your site, and what they do once there. These metrics allow you to gain valuable insights into who your visitors are and how well your website is performing, helping you determine how best to maximise traffic and conversions.</p>
 							<p>Knowing where your visitors are coming from is essential to know which of your marketing channels are working well, as well as identify potential new opportunities. And knowing how they interact with your site helps you optimise the user experience to keep them engaged for longer and turn them into customers.</p>

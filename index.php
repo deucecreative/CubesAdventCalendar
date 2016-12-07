@@ -52,8 +52,8 @@
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/05/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/06/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/07/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/07/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/07/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/08/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/09/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/10/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/11/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
@@ -156,21 +156,23 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">What is Conversion Rate Optimisation and how will it help increase business?</h3>
+						<h3 class="content__title">What are web analytics and why are they important?</h3>
 						<div class="content__description">
-							<p>Conversion rate optimisation or (CRO) focuses on converting website visitors into customers by designing for  specific outcomes.</p>
-							<p>What do you want people to do once they reach your website? Be it to sign up to a newsletter, purchase a product or get in touch, you need to direct your visitors as easily as possible from the moment they land on your site and eliminate any difficulties along the way.</p>
-							<p>Easy website forms, for example, often result in a higher completion rates so remove unnecessary fields like title, marketing questions ( “How did you hear about us?” ) and registration for one-off purchases. If your primary goal is to encourage visitors to get in touch, don’t hide your point-of-contact away and miss out on potential leads.</p>
-							<p>Design your website for what’s important to channel visitors towards your desired action. Convert them into a (potentially returning) customer first - you can always follow up with more information at a later date and they’re less likely to ignore marketing requests once they have gotten through your website with ease. </p>
+							<p>Web analytics allow you to measure and review how your visitors arrive on your site, and what they do once there. These metrics allow you to gain valuable insights into who your visitors are and how well your website is performing, helping you determine how best to maximise traffic and conversions.</p>
+							<p>Knowing where your visitors are coming from is essential to know which of your marketing channels are working well, as well as identify potential new opportunities. And knowing how they interact with your site helps you optimise the user experience to keep them engaged for longer and turn them into customers.</p>
+							<p>Analytics can help you track the performance of your social media and PPC advertising campaigns, or see what percentage of your users are browsing on mobile devices or using a specific browser.</p>
+							<p>It might sound complex, but web analytics are easy to implement and use. We're fans of both Google Analytics and Hotjar, as they are simple to understand, and together provide a goldmine of information on visitor behaviour.</p>
+							<p>Without analytics, you won't have any idea why your website isn't performing, nor will you have anything to benchmark any improvements against. If your site doesn't have any analytics set up, make this the first thing you do in 2017 and start collecting that valuable data.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">What does analytics do and should I have it on my website?</h3>
+						<h3 class="content__title">What is Conversion Rate Optimisation and how will it help increase business?</h3>
 						<div class="content__description">
-							<p>Web analytics measure your website’s performance, allowing you to see what visitors are doing on your site and how they interact with it. Analytics can help you spot unsuspecting issues with your website and see what content is popular, helping you determine what to invest into.</p>
-							<p>Find out where visitors are coming from which is really useful in determining what marketing channels work best. Save time and money by investing into adverts and social media that you can guarantee will bring in the most visitors. </p>
-							<p>It might sound complex but analytics is very easy to implement and use. We use Hotjar and Google Analytics as they are simple to understand and come with flexible features like website visitor recordings. If you haven’t got any analytics on your site it should be a high priority next year so you can save time and money by investing in what works. </p>
+							<p>Conversion Rate Optimisation (CRO) focuses on converting website visitors into customers by designing for specific outcomes.</p>
+							<p>What do you want people to do once they reach your website? Be it to sign up to a newsletter, purchase a product or get in touch, you need to direct your visitors as easily as possible from the moment they land on your site and eliminate any difficulties along the way.</p>
+							<p>Easy website forms, for example, often result in a higher completion rates so remove unnecessary fields like title, marketing questions ( “How did you hear about us?” ) and registration for one-off purchases. If your primary goal is to encourage visitors to get in touch, don’t hide your point-of-contact away and miss out on potential leads.</p>
+							<p>Design your website for what’s important to channel visitors towards your desired action. Convert them into a (potentially returning) customer first - you can always follow up with more information at a later date and they’re less likely to ignore marketing requests once they have gotten through your website with ease. </p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>

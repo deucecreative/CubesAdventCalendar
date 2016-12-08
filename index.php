@@ -167,12 +167,15 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">What is Conversion Rate Optimisation and how will it help increase business?</h3>
+						<h3 class="content__title">What Is Conversion Rate Optimisation and How Will It Help Increase Business?</h3>
 						<div class="content__description">
-							<p>Conversion Rate Optimisation (CRO) focuses on converting website visitors into customers by designing for specific outcomes.</p>
-							<p>What do you want people to do once they reach your website? Be it to sign up to a newsletter, purchase a product or get in touch, you need to direct your visitors as easily as possible from the moment they land on your site and eliminate any difficulties along the way.</p>
-							<p>Easy website forms, for example, often result in a higher completion rates so remove unnecessary fields like title, marketing questions ( “How did you hear about us?” ) and registration for one-off purchases. If your primary goal is to encourage visitors to get in touch, don’t hide your point-of-contact away and miss out on potential leads.</p>
-							<p>Design your website for what’s important to channel visitors towards your desired action. Convert them into a (potentially returning) customer first - you can always follow up with more information at a later date and they’re less likely to ignore marketing requests once they have gotten through your website with ease. </p>
+							<p>No matter how well-designed you think your site is, the chances are that there is room for improvement. If you’re spending money on paid advertising or SEO to generate traffic to your site, then you want to be squeezing the most value out of it.</p>
+							<p>Conversion Rate Optimisation (CRO) is the process of refining your sites user experience with the primary objective of increasing the percentage of visitors that complete a particular goal.</p>
+							<p>Depending on the nature of your site, these goals might include getting your visitor to complete a checkout process, subscribe to your newsletter, download a brochure, fill in an enquiry form – or even pick up the phone (yes, calls can be tracked too).</p>
+							<p>Ultimately, the aim of CRO is to convert more visitors into customers – so by making the conversion process easier (or more appealing) for your visitors, more of them will convert and you'll get a better return on your investment.</p>
+							<p>In order to make informed decisions as to what changes could be made to improve your conversion rates, it's essential to gather real-world data so that you can understand who your visitors are and how they are interacting with your site. This will help you identify potential problem areas, or missed opportunities.</p>
+							<p>This data can be obtained through a variety of methods such as web analytics (which pages are popular or unpopular), heatmapping (identifying which areas of your site get the most clicks), user testing (asking test subjects to perform a particular task and give you feedback on how easy they found it), and exit surveys (i.e. asking your visitors why they are about to leave your site).</p>
+							<p>Armed with this information, you can make informed decisions as to what you should try changing in order to increase your conversion rates, and generate more business from your website.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>

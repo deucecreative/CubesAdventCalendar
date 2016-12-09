@@ -54,9 +54,9 @@
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/07/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/08/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/09/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/09/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/09/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/09/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/10/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/11/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/13/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/14/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
@@ -109,9 +109,9 @@
 						<h3 class="content__title">Do Reviews Matter?</h3>
 						<div class="content__description">
 							<p>If you're looking to increase leads, a crucial first step would be to start earning more online customer reviews for your business.</p>
-							<p>The majority of people begin their buying journey with a Google search. They scan the results looking for a reason to click. As simple as it sounds, if your company has more reviews than your competitors, there’s a good chance you’ll be the one that they are drawn to first.</p>
-							<p>Reviews are about more than just commanding attention in search. Good customer reviews boost confidence in your brand. When a real person backs up the claims you’ve made on your website about your amazing service, it has a much bigger impact then when you say it yourself.</p>
-							<p>By gaining a steady flow of online customer reviews about your business, you’ll be increasing Google’s confidence in your brand too, which will naturally lead to a positive increase to your rankings.</p>
+							<p>The majority of people begin their buying journey with a Google search. They scan the results looking for a reason to click. As simple as it sounds, if your company has more reviews than your competitors, there's a good chance you'll be the one that they are drawn to first.</p>
+							<p>Reviews are about more than just commanding attention in search. Good customer reviews boost confidence in your brand. When a real person backs up the claims you've made on your website about your amazing service, it has a much bigger impact then when you say it yourself.</p>
+							<p>By gaining a steady flow of online customer reviews about your business, you'll be increasing Google's confidence in your brand too, which will naturally lead to a positive increase to your rankings.</p>
 							<p>So online reviews really do matter, and play a critical role in a buyer's decision-making process and willingness to buy.</p>
 							<p>Start earning reviews by asking a handful of your customers to give your business some feedback via your Google 'My Business' page, Facebook page, or Yelp page – and further increase your chances of turning those browsers into buyers.</p>
 						</div>
@@ -169,7 +169,7 @@
 					<div class="content__block">
 						<h3 class="content__title">What Is Conversion Rate Optimisation and How Will It Help Increase Business?</h3>
 						<div class="content__description">
-							<p>No matter how well-designed you think your site is, the chances are that there is room for improvement. If you’re spending money on paid advertising or SEO to generate traffic to your site, then you want to be squeezing the most value out of it.</p>
+							<p>No matter how well-designed you think your site is, the chances are that there is room for improvement. If you're spending money on paid advertising or SEO to generate traffic to your site, then you want to be squeezing the most value out of it.</p>
 							<p>Conversion Rate Optimisation (CRO) is the process of refining your sites user experience with the primary objective of increasing the percentage of visitors that complete a particular goal.</p>
 							<p>Depending on the nature of your site, these goals might include getting your visitor to complete a checkout process, subscribe to your newsletter, download a brochure, fill in an enquiry form – or even pick up the phone (yes, calls can be tracked too).</p>
 							<p>Ultimately, the aim of CRO is to convert more visitors into customers – so by making the conversion process easier (or more appealing) for your visitors, more of them will convert and you'll get a better return on your investment.</p>
@@ -180,31 +180,34 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">How do I capture more enquiries with the same traffic?</h3>
+						<h3 class="content__title">How Can I Generate More Enquiries Without More Traffic?</h3>
 						<div class="content__description">
-							<p>Did you know between 70% and 80% of your website traffic visit once and never come back. That’s a lot of missed conversion opportunities! The first step to keep them coming is to identify why they left. Use analytics to spot any areas of improvement on your site. Is your website taking too long to load? Does it have too many adverts and pop ups? Is your navigation clunky and difficult to use? Any bad experience encountered is enough to leave people running and never coming back.</p>
-							<p>When someone reaches your site, is it clear what action to take? It’s important your website has a strong call-to-action. This is often a stand-out message accompanied by a button that prompts the visitor to do something. Without a strong CTA, visitors might get confused with your website, leaving them to click off. If they were confused on their first visit, why would they return?</p>
-							<p>If you haven’t already, implement reviews into your website and marketing channels. Reviews and testimonials play a critical role in a buyer's decision-making process and willingness to buy. Building trust is vital in a digital landscape and good customer reviews help boost confidence in your brand.</p>
-							<p>Make sure you regularly update your website and social media pages. No one will ever come back to you if there is nothing to come back to. Make regular contact too. Newsletters and personalised ads are likely to put you in the forefront of people's mind when looking for your service or product.</p>
+							<p>Did you know that around 75% of your website visitors will visit once and never come back? That's a lot of missed conversion opportunities! The first step in keeping them coming back is to identify why they left in the first place. Is your website taking too long to load? Does it have too many adverts or pop-ups? Is your navigation clunky and difficult to use? Any sort of bad experience is enough to leave people running for the door.</p>
+							<p>When someone reaches your site, is it clear what they should be doing? It's important your website has a strong call-to-action. This is often a stand-out message accompanied by a button that prompts the visitor to do something. Without a strong CTA, visitors might get confused with your website, leading them to click off. And if they were confused on their first visit, why would they return?</p>
+							<p>If you haven't already, implement customer feedback into your website and marketing channels. Reviews and testimonials play a critical role in a buyer's decision-making process and willingness to buy. Building trust is vital in a digital landscape, and good customer reviews help boost confidence in your brand.</p>
+							<p>Finally, make sure you regularly update your website and social media pages. Vistors are unlikely to be inclined to return if there's nothing new to see or do. Make regular contact too – personalised email marketing and targeted ads are likely to put you in the forefront of people's mind when looking for your product or service.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">What is a unique value proposition and why is it important?</h3>
+						<h3 class="content__title">What Is a Unique Value Proposition and Why Is It Important?</h3>
 						<div class="content__description">
-							<p>Your Unique Value Proposition (or UVP) is a simple statement, describing what you offer that benefits the customer and sets you apart from your competition. You want to be as specific as possible here without divulging into unnecessary detail. For example “Making you amazing products” is a vague and unhelpful sentence. Explain what is it about your product that’s amazing and what the customer gains from buying your product. </p>
-							<p>With so much choice available, especially online, a UVP is important to help encourage people to buy from you instead of someone else. And with ever decreasing attention spans you have around 10 seconds to impress website visitors. If they don’t feel their needs have been addressed, they will be gone in a click, searching elsewhere instead.</p>
-							<p>Don’t confuse a UVP with a strapline however. A strapline is a brief sentence to capture your company and its values. Although similar a UVP is usually a bit more specific to describe what makes a business different. </p>
+							<p>A Unique Value Proposition, or UVP, is a simple statement that succinctly describes what you offer, how it will benefit your customer, and ideally what makes it better than your competitors' offerings. You want to be as specific as possible here without divulging into unnecessary detail.</p>
+							<p>An great example is "Uber is the smartest way to get around. One tap and a car comes directly to you. Your driver knows exactly where to go. And payment is completely cashless." Without explicitly saying so, Uber highlights everything that is bad about traditional taxi services and points out how its service is superior.</p>
+							<p>With so much choice available, especially online, a UVP is important to help encourage people to buy from you instead of from someone else. And with ever-decreasing attention spans, you have around ten seconds to get across to your website visitors what you are offering and why they should buy it from you. If they don't feel their needs have been addressed, they will be gone in a click, searching elsewhere instead.</p>
+							<p>Don't confuse a UVP with a strapline. A strapline is a brief sentence to capture your company and its values. Although similar, a UVP is usually a bit more specific to describe what makes your business different.</p>
+							<p>Why not take some time over Christmas to sit down with a pen and paper, and write down the reasons why you believe that your company is the best choice for your customers. This should help you come up with an engaging UVP that totally sums up your business.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Why is Social Media important?</h3>
+						<h3 class="content__title">Why Is Social Media Important To My Business?</h3>
 						<div class="content__description">
-							<p>Maintaining a proactive presence on social media can have a multitude of benefits for your business. You can obtain customer insights and deliver better customer service whilst increasing the reputation and trust in your company. It’s also great for promoting content and driving web traffic to your site. It can be quite daunting to begin with but you can start up and maintain a few accounts fairly easily. </p>
-							<p>Research and follow Twitter/Facebook business users that could be beneficial to your business. Build a network of interesting and useful connections to engage with. Social media isn’t always, but should be about connecting with real people. At most, 10% of tweets should be automated, the rest should be manual. Automating everything doesn’t build relationships and is the equivalent of handing out hundred business cards in five minutes.</p>
-							<p>You should be posting out interesting content that represents the real life personality of your company. However, you still need to be active so people know they can connect with you easily. You should aim to post to Twitter 3 times a day and Facebook, LinkedIn and Instagram at least once. Don’t worry if you miss a post in your schedule. It’s much more important to post something meaningful instead of any old rubbish just to get a post out.</p>
-							<p>If your business isn’t on social media, make it a priority for 2017 and you should see the benefits over the next year.</p>
+							<p>Maintaining a proactive presence on social media can have a multitude of benefits for your business. You can obtain customer insights and deliver better customer service, whilst increasing the reputation and trust in your brand. It's also great for promoting content and driving web traffic to your site. It can be quite daunting to begin with, but you can start up and maintain a few accounts fairly easily.</p>
+							<p>Research and follow Twitter/Facebook business users that could be beneficial to your business, and build a network of interesting and useful connections to engage with. Social media should be about connecting with real people. At most, 10% of tweets should be automated – the rest should be manual. Automating everything doesn't build relationships, and is the equivalent of handing out a hundred business cards in five minutes.</p>
+							<p>You should be posting out interesting content that represents the real life personality of your company. You should aim to post on Twitter two or three times a day, and on Facebook, LinkedIn and Instagram most days. Don't worry if you miss a post in your schedule – it's much more important to post something meaningful rather than any old rubbish just to get a tweet or post out.</p>
+							<p>It's also good to reply to other people's tweets or comment on their posts, as this engagement demonstrates that you value their output, and it can often lead to some valuable conversations.</p>
+							<p>If your business isn't active on social media, make it a priority for 2017 and you should start to see the benefits over the coming year.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>
@@ -240,7 +243,7 @@
 					</div>
 					<div class="content__block">
 						<h3 class="content__title">Spending Billions</h3>
-						<p class="content__description">Our economy is based on spending billions to persuade people that happiness is buying things, and then insisting that the only way to have a viable economy is to make things for people to buy so they’ll have jobs and get enough money to buy things.</p>
+						<p class="content__description">Our economy is based on spending billions to persuade people that happiness is buying things, and then insisting that the only way to have a viable economy is to make things for people to buy so they'll have jobs and get enough money to buy things.</p>
 						<p class="content__meta">Philip Slater</p>
 					</div>
 					<div class="content__block">

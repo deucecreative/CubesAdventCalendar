@@ -54,9 +54,9 @@
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/07/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/08/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/09/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/10/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/11/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/09/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/09/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/09/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/13/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/14/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
@@ -180,19 +180,33 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">The Sinner</h3>
-						<p class="content__description">The Christmas tree, twinkling with lights, had a mountain of gifts piled up beneath it, like offerings to the great god of excess.</p>
-						<p class="content__meta">Tess Gerritsen</p>
+						<h3 class="content__title">How do I capture more enquiries with the same traffic?</h3>
+						<div class="content__description">
+							<p>Did you know between 70% and 80% of your website traffic visit once and never come back. That’s a lot of missed conversion opportunities! The first step to keep them coming is to identify why they left. Use analytics to spot any areas of improvement on your site. Is your website taking too long to load? Does it have too many adverts and pop ups? Is your navigation clunky and difficult to use? Any bad experience encountered is enough to leave people running and never coming back.</p>
+							<p>When someone reaches your site, is it clear what action to take? It’s important your website has a strong call-to-action. This is often a stand-out message accompanied by a button that prompts the visitor to do something. Without a strong CTA, visitors might get confused with your website, leaving them to click off. If they were confused on their first visit, why would they return?</p>
+							<p>If you haven’t already, implement reviews into your website and marketing channels. Reviews and testimonials play a critical role in a buyer's decision-making process and willingness to buy. Building trust is vital in a digital landscape and good customer reviews help boost confidence in your brand.</p>
+							<p>Make sure you regularly update your website and social media pages. No one will ever come back to you if there is nothing to come back to. Make regular contact too. Newsletters and personalised ads are likely to put you in the forefront of people's mind when looking for your service or product.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Intellectual Wealth</h3>
-						<p class="content__description">Whoever prefers the material comforts of life over intellectual wealth is like the owner of a palace who moves into the servants' quarters and leaves the sumptuous rooms empty.</p>
-						<p class="content__meta">Marie von Ebner-Eschenbach</p>
+						<h3 class="content__title">What is a unique value proposition and why is it important?</h3>
+						<div class="content__description">
+							<p>Your Unique Value Proposition (or UVP) is a simple statement, describing what you offer that benefits the customer and sets you apart from your competition. You want to be as specific as possible here without divulging into unnecessary detail. For example “Making you amazing products” is a vague and unhelpful sentence. Explain what is it about your product that’s amazing and what the customer gains from buying your product. </p>
+							<p>With so much choice available, especially online, a UVP is important to help encourage people to buy from you instead of someone else. And with ever decreasing attention spans you have around 10 seconds to impress website visitors. If they don’t feel their needs have been addressed, they will be gone in a click, searching elsewhere instead.</p>
+							<p>Don’t confuse a UVP with a strapline however. A strapline is a brief sentence to capture your company and its values. Although similar a UVP is usually a bit more specific to describe what makes a business different. </p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Limiting Principle</h3>
-						<p class="content__description">An attitude to life which seeks fulfilment in the single-minded pursuit of wealth - in short, materialism - does not fit into this world, because it contains within itself no limiting principle, while the environment in which it is placed is strictly limited.</p>
-						<p class="content__meta">Ernst F. Schumacher</p>
+						<h3 class="content__title">Why is Social Media important?</h3>
+						<div class="content__description">
+							<p>Maintaining a proactive presence on social media can have a multitude of benefits for your business. You can obtain customer insights and deliver better customer service whilst increasing the reputation and trust in your company. It’s also great for promoting content and driving web traffic to your site. It can be quite daunting to begin with but you can start up and maintain a few accounts fairly easily. </p>
+							<p>Research and follow Twitter/Facebook business users that could be beneficial to your business. Build a network of interesting and useful connections to engage with. Social media isn’t always, but should be about connecting with real people. At most, 10% of tweets should be automated, the rest should be manual. Automating everything doesn’t build relationships and is the equivalent of handing out hundred business cards in five minutes.</p>
+							<p>You should be posting out interesting content that represents the real life personality of your company. However, you still need to be active so people know they can connect with you easily. You should aim to post to Twitter 3 times a day and Facebook, LinkedIn and Instagram at least once. Don’t worry if you miss a post in your schedule. It’s much more important to post something meaningful instead of any old rubbish just to get a post out.</p>
+							<p>If your business isn’t on social media, make it a priority for 2017 and you should see the benefits over the next year.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
 						<h3 class="content__title">Quaintly Free</h3>

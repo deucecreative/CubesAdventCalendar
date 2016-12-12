@@ -58,7 +58,7 @@
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/11/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/14/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/16/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/17/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
@@ -223,9 +223,15 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">On A Level</h3>
-						<p class="content__description">I've always felt that your belongings have never been on a level with you.</p>
-						<p class="content__meta">George Eliot</p>
+						<h3 class="content__title">How can I increase my website’s visibility in search engine results?</h3>
+						<div class="content__description">
+							<p>Optimising your website to appear higher or more frequent in search engine result pages is known as SEO (Search Engine Optimisation). Increasing SEO can start with just a few small tweaks to your website. </p>
+							<p>Check content is correct and regularly updated (blogs are great for this) to remind Google and other search engines to check for new content. Use relevant keywords in your page content, titles and links and include a dynamic sitemap that updates when your site does. This will help search engines read your site easier and quicker.</p>
+							<p>Search engines might read your content but they don’t know what it means or the context it’s in. Using Schema Markup code helps them to understand what the information is and helps return better informative search results to users. Visit <a href="http://schema.org/" target="blank">schema.org</a> to help implement Schema Markup code.</p>
+							<p>Optimise your images too with alt and title tags. Search engines can’t read images but using alt and title tags helps overcome this. Where possible, you should GEO locate images to be associated with your business location.</p>
+							<p>There are two absolute musts for SEO in 2017 as Google recently made changes to it’s search algorithm. We witnessed Mobilegeddon which favours mobile friendly sites. If your website isn’t optimised for mobile, make this your number one priority for the beginning of next year. More recently announced is Google’s plan for a more secure web. The newest Chrome browser will mark sites without an SSL certificate as insecure and ranking them down search results pages. An SSL certificate encrypts sensitive data like passwords and card details and is now an absolute must for next year. If you are ensure about SSL, contact your hosting provider. </p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
 						<h3 class="content__title">Experiences</h3>

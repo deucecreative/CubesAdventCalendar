@@ -59,9 +59,9 @@
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/16/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/17/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/18/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/19/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/20/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
@@ -234,19 +234,33 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Experiences</h3>
-						<p class="content__description">We all need new ideas, images, and experiences far more than we need new stoves or cars or computers.</p>
-						<p class="content__meta">Bill Holm</p>
+						<h3 class="content__title">How do I get my website seen by more online customers?</h3>
+						<div class="content__description">
+							<p>“If you build it, they will come” is still a big assumption amongst site owners but this is not the case and you need to get your website out there. The more your website is featured around the web, the more exposure to search engines it’ll receive. Around 80% of people will use a search engine to find local businesses. More importantly, 90% of Google traffic comes from the first search results page so search optimisation is imperative for getting your website in front of customers eyes.</p>
+							<p>Feature your business on the major local business directories and authority sites that Google love to improve your online footprint. We recommend starting with Google My Business and it is very easy to set up and will communicate with Google Search more effectively than other directories. </p>
+							<p>Researching where similar businesses have listed themselves will also help build a list of places to add business listings. Featuring your website in online directories will create backlinks to your website and give your rankings a boost.</p>
+							<p>As well as creating backlinks around the web, add optimisation to your own website. There’s plenty you can do <a href="http://deucecreative.2009/advent2016/#14" target="blank">here</a> to get you started for the new year.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Entrenched</h3>
-						<p class="content__description">We are being called upon to act against a prevailing culture, to undermine our own entrenched tendency to accumulate and to consume, and to refuse to define our individuality by our presumed ability to do whatever we want.</p>
-						<p class="content__meta">Lyanda Lynn Haupt</p>
+						<h3 class="content__title">How do I encourage more people to my shop front?</h3>
+						<div class="content__description">
+							<p>Very obvious but important - make sure all contact details are correct, clear and easy to find as any incorrect info will leave customers anxious about visiting you. Provide as much detail as possible to help direct customers such as opening hours, Google maps and even Google directions. Provide plenty of shop photos and consider a 3D Walk through to help people feel like they know where they are going.</p>
+							<p>Include a Meet the Team page on your website. Showing happy images of team members gives customers a familiar face to greet and make contact with. Video’s that show happy employees in a positive work environment will also encourage people to pop in.</p>
+							<p>Collection only offers and free in store delivery are great for encouraging shop visits. You could even hold an in store event or sale to entice crowds of people to come in. Keep your customers updated via email and social media of any upcoming on-site offers so they can plan their visit accordingly. </p>
+							<p>Create a Google My business page to help people find you in search results and maps. This will also help them physically locate you better. People will also see you store front when looking around at other local businesses, getting your site unintentionally seen by potential customers.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Happiness</h3>
-						<p class="content__description">The way of the consumerist culture is to spend so much energy chasing happiness that it has none left to be happy.</p>
-						<p class="content__meta">Criss Jami</p>
+						<h3 class="content__title">How can I recruit new employees without expensive Agency fees?</h3>
+						<div class="content__description">
+							<p>There are plenty of ways to find new employees without hiring a recruitment agency. Incentivise your current employees to find your next hire, include referral programmes and consider low cost Google ads. Take to social media to create a buzz around your new role and post listings for free on the most recognised job sites like Indeed.</p>
+							<p>No matter how well your marketing channels work to draw in potential candidates, they all lead straight back to your company’s website so having a stand out careers section is imperative. Create a “We’re hiring” button at the top of your website to be seen when anyone lands on your site. Your careers page should have clear information and contact details and include social media buttons to encourage social sharing.</p>
+							<p>But it’s not just the careers page that needs attention. A meet the team page can help candidates see where they fit within your business and your about page is a great opportunity to sell company perks and culture. Remember, if you’re shouting about a job opening, you will likely receive more traffic so make sure your site is looking tip top to avoid putting off that stand out candidate.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
 						<h3 class="content__title">Working Jobs</h3>

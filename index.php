@@ -57,7 +57,7 @@
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/10/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/11/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/13/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/12/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/14/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/16/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
@@ -138,7 +138,7 @@
 							<p>Here's a few examples. A transitional CTA for visitors that are undecided might be 'Join Our Newsletter' or 'Download Our Guide'. A direct CTA, for committed customers, would be 'Sign Up Now', 'Buy Now' or 'Get Started'.</p>
 							<p>If your CTA is cluttered within a page, it will only lead to confusion. Provide space and clarity.</p>
 							<p>With so many messages fighting for attention, don't make your customers work hard – clearly direct them and get better results.</p>
-							<p>So in true CTA fashion, if you like our tips so far, follow us on Facebook, Twitter or Instagram.</p>
+							<p>So in true CTA fashion, if you like our tips so far, follow us on <a href="https://www.facebook.com/deucecreative/" target="blank">Facebook</a>, <a href="https://twitter.com/deucecreative" target="blank">Twitter</a> or <a href="https://www.instagram.com/deucecreative/" target="blank">Instagram.</a></p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>
@@ -212,9 +212,15 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Quaintly Free</h3>
-						<p class="content__description">To have so little, and it of so little value, was to be quaintly free.</p>
-						<p class="content__meta">Wallace Stegner</p>
+						<h3 class="content__title">Why should my website have a blog?</h3>
+						<div class="content__description">
+							<p>Blogging is a great way of generating new leads. A blog post might be the only page a visitor sees so if your website has a specific goal, put it on your blog post pages. Think about how many posts your blog has. Hopefully quite a few. If they all have a clear call-to-atcion, there’s more chance it will get seen with the more posts you publish.</p>
+							<p>Every post is another page filled with keywords, showing Google your site is regularly updated therefore boosting your SEO. We use Yoast for SEO on our WordPress sites, a handy tool to help ensure our post content is optimised for maximum search engine visibility. Get Yoast for WordPress here: <a href="https://yoast.com/wordpress/plugins/seo/" target="blank">yoast.com/wordpress/plugins/seo/</a></p>
+							<p>An up-to-date blog will also keep visitors coming back as it gives them a reason to return regularly. And a regular visitor are more likely to convert into a paying customer. Blogging is also a non-intrusive way to demonstrate your knowledge and represent yourself as an industry leader which will position you highly in peoples minds when making the choice to buy products or services. </p>
+							<p>Advertise your blog and publish on other platforms like Facebook, LinkedIn and Medium. Blogging is a great way of generating shareable, engaging content for social media and diverting people to your website. For popular blog posts, market them through Facebook ads and Adwords to bring in new site visitors and make sure you always use Facebook’s tracking pixel on blog posts to build up a network of Facebook accounts to target advertisements to. </p>
+							<p>The benefits of having an up-to-date blog are huge so why not make 2017 your year of blogging and find out what more a blog can help bring to your site?</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
 						<h3 class="content__title">On A Level</h3>

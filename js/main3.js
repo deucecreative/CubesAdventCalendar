@@ -453,7 +453,7 @@
 			duration: 500,
 			delay: 900,
 			easing: 'easeOutExpo',
-			opacity: [0,1],
+			opacity: [0,0.2],
 			translateX: [-200,0]
 		});
 	};

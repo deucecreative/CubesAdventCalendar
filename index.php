@@ -237,12 +237,13 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">How do I get my website seen by more online customers?</h3>
+						<h3 class="content__title">How Do I Get My Website In Front of More Potential Customers?</h3>
 						<div class="content__description">
-							<p>“If you build it, they will come” is still a big assumption amongst site owners but this is not the case and you need to get your website out there. The more your website is featured around the web, the more exposure to search engines it’ll receive. Around 80% of people will use a search engine to find local businesses. More importantly, 90% of Google traffic comes from the first search results page so search optimisation is imperative for getting your website in front of customers eyes.</p>
-							<p>Feature your business on the major local business directories and authority sites that Google love to improve your online footprint. We recommend starting with Google My Business and it is very easy to set up and will communicate with Google Search more effectively than other directories. </p>
-							<p>Researching where similar businesses have listed themselves will also help build a list of places to add business listings. Featuring your website in online directories will create backlinks to your website and give your rankings a boost.</p>
-							<p>As well as creating backlinks around the web, add optimisation to your own website. There’s plenty you can do <a href="//deucecreative.co.uk/advent2016/#14" target="blank">here</a> to get you started for the new year.</p>
+							<p>"If you build it, they will come" is still a big assumption amongst new site owners, but with over 1 billion sites on the web, you need to put in some serious effort to get your site noticed. The more places your website is featured around the web, the more exposure to potential customers you will receive.</p>
+							<p>Around 80% of people will use a search engine to find local businesses. More importantly, over 95% of those people will only browse the sites featured on the first page of results – so good search engine optimisation is essential for getting your website in front of more prospects.</p>
+							<p>List your business on the major business directories to help grow your online footprint. We recommend starting with Google's 'My Business' – it's easy to set up and will communicate with Google Search much more effectively than other directories.</p>
+							<p>Researching where your direct competitors and other similar businesses have listed themselves using a tool such as <a href="https://whitespark.ca/" target="_blank">Whitespark</a>, will help you quickly identify high-authority sites that are worth you getting listed on. These listings will create valuable links back to your website, which over time should give your rankings a boost.</p>
+							<p>As well as creating off-site backlinks from around the web, you should also focus on 'on-site' and 'on-page' optimisation – check out our tips from <a href="//deucecreative.co.uk/advent2016/#14" target="blank">day 14</a> to get you started for the new year.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>

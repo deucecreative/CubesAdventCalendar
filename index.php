@@ -248,12 +248,13 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">How do I encourage more people to my shop front?</h3>
+						<h3 class="content__title">How Do I Encourage More People To Visit My Premises?</h3>
 						<div class="content__description">
-							<p>Very obvious but important - make sure all contact details are correct, clear and easy to find as any incorrect info will leave customers anxious about visiting you. Provide as much detail as possible to help direct customers such as opening hours, Google maps and even Google directions. Provide plenty of shop photos and consider a 3D Walk through to help people feel like they know where they are going.</p>
-							<p>Include a Meet the Team page on your website. Showing happy images of team members gives customers a familiar face to greet and make contact with. Video’s that show happy employees in a positive work environment will also encourage people to pop in.</p>
-							<p>Collection only offers and free in store delivery are great for encouraging shop visits. You could even hold an in store event or sale to entice crowds of people to come in. Keep your customers updated via email and social media of any upcoming on-site offers so they can plan their visit accordingly. </p>
-							<p>Create a Google My business page to help people find you in search results and maps. This will also help them physically locate you better. People will also see you store front when looking around at other local businesses, getting your site unintentionally seen by potential customers.</p>
+							<p>If you have a bricks-and-mortar business that you are trying to promote via your website, first-and-foremost make sure that all your contact details are up-to-date and easy to find, as any ambiguous information will leave customers anxious about visiting you.</p>
+							<p>Provide as much detail as possible to help direct customers, such as your opening hours, location maps, and even a link to Google directions preset with their current location. Provide plenty of photos of your premises, and consider a 360-degree virtual tour to help people feel familiar with where they'll be visiting.</p>
+							<p>Include a 'Meet the Team' page on your website – seeing happy images of team members will give customers a familiar face to greet and make contact with. Videos that show happy employees in a positive work environment will also encourage people to pop-in.</p>
+							<p>Collection-only offers and in-store specials are great for encouraging shop visits. You could even hold an in-store event or sale to entice crowds of people to come in. Keep your customers updated via email and social media of any upcoming on-site offers, so that they can plan their visit accordingly.</p>
+							<p>Create a Google 'My Business' page to help people find you in search results and maps. This will also help them physically locate you more easily. People may also notice your store front when looking around at other local businesses, getting your site unintentionally seen by potential viitors.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>

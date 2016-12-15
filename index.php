@@ -62,11 +62,11 @@
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/16/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/17/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/18/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/19/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/20/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/21/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/22/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/23/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/24/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/25/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
@@ -266,29 +266,57 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Working Jobs</h3>
-						<p class="content__description">Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need.</p>
+						<h3 class="content__title">How can I generate more leads through my Facebook business page?</h3>
+						<div class="content__description">
+							<p>With nearly 1.8 billion active users a month, Facebook is a huge social network that’s not going anywhere anytime soon. Having a Facebook business page allows you to connect with your customers and raise brand awareness but you need to remain proactive to increase your page’s lead potential.  </p>
+							<p>Create a <a href="https://deucecreative.co.uk/advent2016/#6" target="_blank">call to action</a> button at the top of your page (just under the cover photo). You created your website with a specific goal in mind and this should be linked in the CTA button. Facebook provides plenty of options from ‘Call Us’ to ‘Sign Up’, ‘Send Message’ to ‘Show Now’. You should include clear contact options anyway as Facebook users might not visit your website afterwards. </p>
+							<p>Have a post pinned to the top of your Facebook page at all times, ideally one that relates to your website’s specific goal and call-to-action button. Maybe this links to a landing page or newsletter sign up. This is the first post users see on your page and therefore more likely to get clicked.</p>
+							<p>Remain as active as possible on social media. Inactive accounts will put people off as they have no reason to return. Post about your work, products you sell and customers you’ve helped to show what your company can provide. Post out interesting content that represents the real life personality of your company. Humanising your brand will build trust and make you much more approachable. </p>
+							<p>Also use Facebook to maintain a customer service hub. People often look to social media for help and support first and if they can see you are a responsive brand who genuinely cares about providing customer service, they will be more willing to buy your product or service.</p>
+							<p>Do you have a Facebook Business page? Is it up to scratch and pulling in leads? Why not review for 2017 and watch your business network grow with Facebook. </p>
+						</div>
 						<p class="content__meta">Chuck Palahniuk</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Spending Billions</h3>
-						<p class="content__description">Our economy is based on spending billions to persuade people that happiness is buying things, and then insisting that the only way to have a viable economy is to make things for people to buy so they'll have jobs and get enough money to buy things.</p>
-						<p class="content__meta">Philip Slater</p>
+						<h3 class="content__title">How can I use Facebook Advertising to increase potential leads?</h3>
+						<div class="content__description">
+							<p>As of the third quarter of 2016, Facebook had 1.79 billion monthly active users. That’s a 1.79 Billion possible outreach for your business! Not that you’d need to target all of them of course. Facebook advertising is great for reaching out to new customers but it’s most powerful feature is the extensive analytical data is provides to help target the right audience for your business. </p>
+							<p>Whenever running a Facebook Ad campaign, it is imperative to include a Facebook tracking pixel. This is a small snippet of code allowing FB to collect information about how Facebook users interact with your site. If you drive traffic to particular post on your website you can track the specific audience that visited that page using a retargeting pixel and then remarket to them based on what they’ve clicked on before. Increasing the likelihood of leads.</p>
+							<p>You can also build up a lookalike audience to target similar accounts to your target audience. If a Facebook user interacts with your advert, it will target another similar user as it’s more likely they will also interact with it, eventually building up a more targeted network of accounts. </p>
+							<p>There’s plenty more you can do with Facebook Advertising so rather than chucking an ad out into the social ether and hoping for the best, make use of FB analytics and start creating better targeted campaigns.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Principle Of Having</h3>
-						<p class="content__description">The real opposition is that between the ego-bound man, whose existence is structured by the principle of having, and the free man, who has overcome his egocentricity.</p>
-						<p class="content__meta">Erich Fromm</p>
+						<h3 class="content__title">What will implementing a live chat feature do for my business? </h3>
+						<div class="content__description">
+							<p>Live chat is a feature most often in the form of a chat box that allows a user to send messages directly to a company and hopefully receive a quicker response than they would through phone or email. This is particularly helpful to customers who are having issues on your website. Any confusion or questions from users will result in website abandonment unless they receive a quick answer. A live chat feature allows an instant communication option, reducing clicks away from your site and increasing potential conversions. </p>
+							<p>Live chat is also a perfect opportunity to collect any feedback from customers, particularly those experiencing problems. You don’t have to bombard them with a bunch of marketing questions but finding out their issues helps identify any existing problems on your website. Fixing these problems will reduce issues for future customers and keep them on your site. </p>
+							<p>Also if you help resolve issues and clear up any doubt, it will create a positive shopping experience that will keep customers coming back. If they can see you are a responsive company who genuinely cares about providing customer service, they will be more willing to buy your product or service in the future.</p>
+							<p>Multiple chats can be managed simultaneously, which is much quicker and cheaper than a customer service phone line. And you can set up alerts if anyone messages in so your not waiting around, having to constantly check for messages. </p>
+							<p>Without live chat, you customers might not be getting the support the need, resulting in website abandonment. Consider implementing it into your site to give your conversions a little boost.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Enemies</h3>
-						<p class="content__description">Happy slaves are the bitterest enemies of freedom.</p>
-						<p class="content__meta">Marie von Ebner-Eschenbach</p>
+						<h3 class="content__title">What are content upgrades and how do they generate leads?</h3>
+						<div class="content__description">
+							<p>A content upgrade is a free piece of content to be given away in exchange for an email address. Your content upgrade needs to build upon or enhance the existing content from a corresponding blog post (hence the “upgrade” name). This free content can take a variety of forms such as E-book, slideshow, source code, video training, PSD files and website bonus area.</p>
+							<p>Blog posts with content upgrades create an unresolved open loop that people feel they need to obtain to complete the information. In the same way a film ends on a cliff-hanger, content upgrades spark curiosity and appeals to peoples need for conclusion. </p>
+							<p>Additional downloadable content that improves or enhances the quality of the blog post helps build a better list of subscribers interested in the topic and provides you with a network of contact from people already invested in your site. </p>
+							<p>Make sure you content builds upon the existing blog post. Otherwise it’s like trying to sell someone a car in a clothes shop. Your conversion rate will be higher if you offer content that’s relevant and focused on the audience.</p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Better World</h3>
-						<p class="content__description">If you assume that there is no hope, you guarantee that there will be no hope. If you assume that there is an instinct for freedom, that there are opportunities to change things, then there is a possibility that you can contribute to making a better world.</p>
-						<p class="content__meta">Noam Chomsky</p>
+						<h3 class="content__title">Why should I building an email list for email marketing?</h3>
+						<div class="content__description">
+							<p>Email marketing is by far the most effective form of marketing out there and allows you to reach more of your audience than any other marketing platform. Roughly 22% of emails get blocked or lost in spam but that still leaves an average of 78% messages delivered.</p>
+							<p>Not only does it have a high conversion rate, but great for increasing repeat traffic to your site. Emailing offers, new products and latest blog posts gives people a reason to come back to your website.</p>
+							<p>When you use another marketing channel, you rely on their service rules. Facebook can decide to decrease your reach you to encourage businesses to pay for ads. Google’s algorithm changes so fast you might be reducing your page rankings without even knowing. But with a large network of emails, you can still reach out to people and promote yourself. </p>
+							<p>Email marketing is also the best way to build personal relationships with your customers as you can easily create a batch of personalised emails targeted at a single customer. </p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
 						<h3 class="content__title">Better World</h3>

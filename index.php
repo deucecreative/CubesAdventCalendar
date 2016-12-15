@@ -67,8 +67,8 @@
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/23/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/24/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/25/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
 				</div>
 				<div class="content">
@@ -320,14 +320,25 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Better World</h3>
-						<p class="content__description">If you assume that there is no hope, you guarantee that there will be no hope. If you assume that there is an instinct for freedom, that there are opportunities to change things, then there is a possibility that you can contribute to making a better world.</p>
-						<p class="content__meta">Noam Chomsky</p>
+						<h3 class="content__title">Why should I optimise email newsletters for mobile?</h3>
+						<div class="content__description">
+							<p>Unless you’ve been in hiding for the last 5 years you should be well aware by now just how popular mobile usage is for internet browsing. In 2014, it was reported that over 36% of mobile subscribers use iPhones or iPads to read email and 34% of subscribers only use mobile devices to read emails. That’s over a third of your audience!</p>
+							<p>Despite these stats, under 12% of email marketing campaigns use a responsive design optimised for mobile devices so sending out mobile friendly emails will set you apart from the crowd. Your email will make more of a memorable impression and give you a competitive edge against your competition that’s easy to achieve.</p>
+							<p>When designing an email campaign remember to keep things simple as email code does not work in the same way as modern websites. An email that works great in a desktop browser might break on a mobile screen. How a HTML email will display varies radically from one inbox to another and images are often blocked. There’s no point sending out an email that initially shows up with nothing so don’t overcomplicate your message with fancy unsupported effects and designs.</p>
+							<p>With so many marketing emails coming in to your customers inbox, it’s important to rise above the noise. Having an optimised email campaign will make your brand more memorable and a positive email experience will leave them more willing to visit your site and hear from you in the future. </p>
+						</div>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Better World</h3>
-						<p class="content__description">If you assume that there is no hope, you guarantee that there will be no hope. If you assume that there is an instinct for freedom, that there are opportunities to change things, then there is a possibility that you can contribute to making a better world.</p>
-						<p class="content__meta">Noam Chomsky</p>
+						<h3 class="content__title">What are Deuce’s predictions for web in 2017?</h3>
+						<div class="content__description">
+							<p>“Defiantly more video. We’ve seen a huge increase in video being used and that will continue to grow next year. We’ll see more gradients, interesting typography and less structured layouts as web designers are starting to stray away from conventions to emphasise individualistic branding. I think more companies will take on board reviews and live chat in an attempt to reach out to their customers further.“</p>
+							<p class="content__meta"> Dave</p>
+							<p>“Well Flash has been dropped completely by Google this year so we’ll continue to see it pushed out from websites further. Also from January 2017, new versions of Google's Chrome browser will mark web pages without  an SSL certificate as non-secure so we’ll start to move towards a more secure web from the beginning of next year.”</p>
+							<p>- Matt</p>
+							<p>“I think we’ll be seeing a lot more micro animations. The web is no longer static and web pages will continue to feel more dynamic thanks to these subtle animations. I believe we’ll also see more experimental navigation systems as designers our becoming more comfortable with responsive design and found inventive solutions to getting users around sites.”</p>
+							<p>- Eloise</p>
+						</div>
 					</div>
 					<div class="content__block">
 						<h3 class="content__title">Better World</h3>

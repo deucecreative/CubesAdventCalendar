@@ -222,6 +222,10 @@ a:focus {
 	margin: 20px 0;
 }
 
+.xmas-img {
+	width: 100%;
+}
+
 @media screen and (max-width: 50.75em) {
 	.js .content__block {
 		padding: 4em 2em 0;

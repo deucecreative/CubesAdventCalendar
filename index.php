@@ -61,7 +61,7 @@
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/14/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/16/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/16/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/17/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/18/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/19/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/20/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
@@ -268,24 +268,24 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">How can I generate more leads through my Facebook business page?</h3>
+						<h3 class="content__title">How Can I Generate More Leads Through My Facebook Business Page?</h3>
 						<div class="content__description">
-							<p>With nearly 1.8 billion active users a month, Facebook is a huge social network that’s not going anywhere anytime soon. Having a Facebook business page allows you to connect with your customers and raise brand awareness but you need to remain proactive to increase your page’s lead potential.  </p>
-							<p>Create a <a href="https://deucecreative.co.uk/advent2016/#6" target="_blank">call to action</a> button at the top of your page (just under the cover photo). You created your website with a specific goal in mind and this should be linked in the CTA button. Facebook provides plenty of options from ‘Call Us’ to ‘Sign Up’, ‘Send Message’ to ‘Show Now’. You should include clear contact options anyway as Facebook users might not visit your website afterwards. </p>
-							<p>Have a post pinned to the top of your Facebook page at all times, ideally one that relates to your website’s specific goal and call-to-action button. Maybe this links to a landing page or newsletter sign up. This is the first post users see on your page and therefore more likely to get clicked.</p>
-							<p>Remain as active as possible on social media. Inactive accounts will put people off as they have no reason to return. Post about your work, products you sell and customers you’ve helped to show what your company can provide. Post out interesting content that represents the real life personality of your company. Humanising your brand will build trust and make you much more approachable. </p>
-							<p>Also use Facebook to maintain a customer service hub. People often look to social media for help and support first and if they can see you are a responsive brand who genuinely cares about providing customer service, they will be more willing to buy your product or service.</p>
-							<p>Do you have a Facebook Business page? Is it up to scratch and pulling in leads? Why not review for 2017 and watch your business network grow with Facebook. </p>
+							<p>With nearly 1.8 billion active users a month, Facebook is a huge social network that's not going anywhere anytime soon. Having a Facebook business page allows you to connect with your customers and raise brand awareness – but you need to remain proactive in order to increase your page's lead potential.</p>
+							<p>Create a <a href="https://deucecreative.co.uk/advent2016/#6" target="_blank">call-to-action</a> button at the top of your page (just under the cover photo). You created your website with a specific goal in mind, and this should be linked to in the CTA button. Facebook provides plenty of options from ‘Call Us’ to ‘Sign Up’, ‘Send Message’ to ‘Shop Now’. You should include clear contact options anyway, as Facebook users might not visit your website afterwards.</p>
+							<p>Have a post pinned to the top of your Facebook page at all times – ideally one that relates to your website’s specific goal and call-to-action button. Maybe this links to a landing page or newsletter sign-up form. This is the first post users see on your page and therefore more likely to get clicked.</p>
+							<p>Remain as active as possible on social media. Inactive accounts will put people off as they have no reason to return. Post about your work, products you sell, and customers you've helped, to show what your company can provide. Post out interesting content that represents the real-life personality of your company. Humanising your brand will build trust and make you much more approachable.</p>
+							<p>Also, use Facebook to maintain a customer service hub. People often look to social media for help and support first, and if they can see you are a responsive brand who genuinely cares about providing customer service, they'll be more willing to buy your product or service.</p>
+							<p>Do you have a Facebook Business page? If so, is it up-to-scratch and pulling in leads? Why not review this for 2017 and watch your business network grow.</p>
 						</div>
-						<p class="content__meta">Chuck Palahniuk</p>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">How can I use Facebook Advertising to increase potential leads?</h3>
+						<h3 class="content__title">How Can I Use Facebook Advertising to Increase Potential Leads?</h3>
 						<div class="content__description">
-							<p>As of the third quarter of 2016, Facebook had 1.79 billion monthly active users. That’s a 1.79 Billion possible outreach for your business! Not that you’d need to target all of them of course. Facebook advertising is great for reaching out to new customers but it’s most powerful feature is the extensive analytical data is provides to help target the right audience for your business. </p>
-							<p>Whenever running a Facebook Ad campaign, it is imperative to include a Facebook tracking pixel. This is a small snippet of code allowing FB to collect information about how Facebook users interact with your site. If you drive traffic to particular post on your website you can track the specific audience that visited that page using a retargeting pixel and then remarket to them based on what they’ve clicked on before. Increasing the likelihood of leads.</p>
-							<p>You can also build up a lookalike audience to target similar accounts to your target audience. If a Facebook user interacts with your advert, it will target another similar user as it’s more likely they will also interact with it, eventually building up a more targeted network of accounts. </p>
-							<p>There’s plenty more you can do with Facebook Advertising so rather than chucking an ad out into the social ether and hoping for the best, make use of FB analytics and start creating better targeted campaigns.</p>
+							<p>As of the third quarter of 2016, Facebook had 1.79 billion monthly active users. That's a possible outreach of 1.79 billion for your business! Not that you'd need to target them all of course. Facebook advertising is great for reaching out to new customers, and it's most-powerful feature is the extensive analytical data it provides to help target the right audience for your business.</p>
+							<p>Whenever running a Facebook ad campaign (and even when not), it is imperative to install a Facebook tracking pixel on your website. This is a small snippet of code that allows Facebook to collect information about how users interact with your site. If you drive traffic to a particular post on your website, you can track the specific audience that visited that page, and then re-market to them based on what they've clicked on before.</p>
+							<p>You can also use the tracking pixel data to build up a 'lookalike' audience of Facebook users that have similar demographics and interests to those that have visited your site. And if a Facebook user interacts with your advert, Facebook will dynamically target other similar users, as it's more likely that they will engage with it too.</p>
+							<p>We've only scratched the surface of what you can do with Facebook advertising, so rather than just chucking an ad out into the social ether and hoping for the best, make use of Facebook analytics and start creating better-targeted campaigns.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>

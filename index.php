@@ -69,7 +69,7 @@
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/22/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/23/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/24/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/25/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/16/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
 				</div>
 				<div class="content">
 					<div class="content__block">
@@ -342,8 +342,11 @@
 						</div>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Better World</h3>
-						<p class="content__description">If you assume that there is no hope, you guarantee that there will be no hope. If you assume that there is an instinct for freedom, that there are opportunities to change things, then there is a possibility that you can contribute to making a better world.</p>
+						<h3 class="content__title">Seasons Greetings from all at Deuce.</h3>
+						<div class="content__description">
+							<img src="http://deucecreative.co.uk/wp-content/uploads/2016/12/img_3441_720.jpg" class="xmas-img">
+							<p>We hope you have enjoyed these marketing tips. Have a great Christmas and we look forward to seeing you in the new year.</p>
+						</div>
 						<p class="content__meta">Noam Chomsky</p>
 					</div>
 					<div class="content__number">0</div>

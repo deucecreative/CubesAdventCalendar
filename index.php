@@ -61,7 +61,7 @@
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/14/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/15/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/16/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/17/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/16/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/18/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/19/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#1c2d3f"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/20/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
@@ -259,11 +259,11 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">How can I recruit new employees without expensive Agency fees?</h3>
+						<h3 class="content__title">How Can I Recruit New Employees Without Expensive Agency Fees?</h3>
 						<div class="content__description">
-							<p>There are plenty of ways to find new employees without hiring a recruitment agency. Incentivise your current employees to find your next hire, include referral programmes and consider low cost Google ads. Take to social media to create a buzz around your new role and post listings for free on the most recognised job sites like Indeed.</p>
-							<p>No matter how well your marketing channels work to draw in potential candidates, they all lead straight back to your company’s website so having a stand out careers section is imperative. Create a “We’re hiring” button at the top of your website to be seen when anyone lands on your site. Your careers page should have clear information and contact details and include social media buttons to encourage social sharing.</p>
-							<p>But it’s not just the careers page that needs attention. A meet the team page can help candidates see where they fit within your business and your about page is a great opportunity to sell company perks and culture. Remember, if you’re shouting about a job opening, you will likely receive more traffic so make sure your site is looking tip top to avoid putting off that stand out candidate.</p>
+							<p>There are plenty of ways to find new employees without hiring a recruitment agency. Incentivise your current employees to find your next hire, include referral programmes, and consider low-cost Google ads. Take to social media to create a buzz around your new role, and post listings for free on the most-recognised job sites, like <a href="https://www.indeed.co.uk/" target="_blank">Indeed</a>.</p>
+							<p>No matter how well your marketing channels work to draw in potential candidates, they all lead straight back to your company's website, so having a stand-out careers section is imperative. Create a "We're hiring" button or alert bar at the top of your website that will be seen when anyone lands on your site. Your 'Careers' page should have clear information on the roles available, and make it obvious how to apply. Including social media buttons will also encourage sharing.</p>
+							<p>But it's not just the careers page that needs attention. A 'Meet the Team' page can help candidates see where they would fit within your business, and your 'About' page is a great opportunity to sell company perks and culture. Always remember that if you're shouting about a job opening, you'll likely receive more traffic – so make sure your site is looking tip-top to avoid putting off that stand out candidate.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>

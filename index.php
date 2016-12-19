@@ -69,7 +69,7 @@
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/22/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#cc0019"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/23/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
 					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/24/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
-					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/16/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
+					<div class="cube" <?php echo ( (int) time() < (int) strtotime( '12/25/16' ) ) ? 'data-inactive data-title="Coming soon"' : ''; ?> data-bg-color="#6161616"></div>
 				</div>
 				<div class="content">
 					<div class="content__block">
@@ -290,64 +290,66 @@
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">What will implementing a live chat feature do for my business? </h3>
+						<h3 class="content__title">How Can a Live Chat Facility Help My Business?</h3>
 						<div class="content__description">
-							<p>Live chat is a feature most often in the form of a chat box that allows a user to send messages directly to a company and hopefully receive a quicker response than they would through phone or email. This is particularly helpful to customers who are having issues on your website. Any confusion or questions from users will result in website abandonment unless they receive a quick answer. A live chat feature allows an instant communication option, reducing clicks away from your site and increasing potential conversions. </p>
-							<p>Live chat is also a perfect opportunity to collect any feedback from customers, particularly those experiencing problems. You don’t have to bombard them with a bunch of marketing questions but finding out their issues helps identify any existing problems on your website. Fixing these problems will reduce issues for future customers and keep them on your site. </p>
-							<p>Also if you help resolve issues and clear up any doubt, it will create a positive shopping experience that will keep customers coming back. If they can see you are a responsive company who genuinely cares about providing customer service, they will be more willing to buy your product or service in the future.</p>
-							<p>Multiple chats can be managed simultaneously, which is much quicker and cheaper than a customer service phone line. And you can set up alerts if anyone messages in so your not waiting around, having to constantly check for messages. </p>
-							<p>Without live chat, you customers might not be getting the support the need, resulting in website abandonment. Consider implementing it into your site to give your conversions a little boost.</p>
+							<p>Live chat is a website feature that allows a user to send messages directly to your company and enables them to have a real-time conversation with you via your website. Visitors like this facility as it means that their enquiry is likely to be resolved in a much quicker timeframe than is usually expected through traditional email and contact forms, and doesn't require making a phone call, which is often difficult for people when browsing at work or on the train.</p>
+							<p>This is particularly helpful to customers who are having issues on your website. Any confusion or questions from users will result in website abandonment unless they receive a quick answer. A live chat facility allows an instant communication option, reducing clicks away from your site and increasing potential conversions.</p>
+							<p>Live chat is also a perfect opportunity to collect any feedback from customers, particularly those experiencing problems. You don’t have to bombard them with a bunch of marketing questions, but finding out their issues helps identify any existing problems on your website. Fixing these problems will reduce issues for future customers and keep them on your site.</p>
+							<p>If you are able to quickly help resolve any issues or answer any questions that your visitor might have, it will create a positive shopping experience that will keep them coming back. And if they can see that you are a responsive company who genuinely cares about providing good customer service, they will be more willing to buy your product or service in the future.</p>
+							<p>Multiple chats can be managed simultaneously, which is much quicker and cheaper than a customer service phone line, and can easily be shared amongst a team if you have multiple resources available. You can also set up alerts so that if anyone starts a conversation when you're not at your desk, you can be alerted on your phone. And if it's not possible for you to reply right way, an automated response can be provided to let the visitor know that you will get back to them as soon as you can.</p>
+							<p>Without live chat, you customers might not be getting the support they need there-and-then, resulting in website abandonment. Consider implementing it into your site to give your conversions a boost.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">What are content upgrades and how do they generate leads?</h3>
+						<h3 class="content__title">What Are Content Upgrades and How Do They Generate Leads?</h3>
 						<div class="content__description">
-							<p>A content upgrade is a free piece of content to be given away in exchange for an email address. Your content upgrade needs to build upon or enhance the existing content from a corresponding blog post (hence the “upgrade” name). This free content can take a variety of forms such as E-book, slideshow, source code, video training, PSD files and website bonus area.</p>
-							<p>Blog posts with content upgrades create an unresolved open loop that people feel they need to obtain to complete the information. In the same way a film ends on a cliff-hanger, content upgrades spark curiosity and appeals to peoples need for conclusion. </p>
-							<p>Additional downloadable content that improves or enhances the quality of the blog post helps build a better list of subscribers interested in the topic and provides you with a network of contact from people already invested in your site. </p>
-							<p>Make sure you content builds upon the existing blog post. Otherwise it’s like trying to sell someone a car in a clothes shop. Your conversion rate will be higher if you offer content that’s relevant and focused on the audience.</p>
+							<p>A content upgrade is piece of content featured on a website that is offered in exchange for a reader's email address. It should provide additional value to the free content that precedes it on a corresponding blog article (hence the term 'upgrade'), offered in the form of an ebook, slideshow, video training series or exclusive access.</p>
+							<p>Studies show that this type of supplementary content creates an unresolved open loop in the user's mind, that can only be closed by acquiring the additional resource on offer. Much the same as when a film ends on a cliff-hanger, a content upgrade spark curiosity and appeals to our need for a conclusion.</p>
+							<p>Aside from this, information that builds upon a related blog post and improves or enhances it's quality helps towards building a stronger list of subscribers as it provides valuable insight into the true needs of the people interested in your offering.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Why should I building an email list for email marketing?</h3>
+						<h3 class="content__title">Why Is It Worth My While Building An Email List?</h3>
 						<div class="content__description">
-							<p>Email marketing is by far the most effective form of marketing out there and allows you to reach more of your audience than any other marketing platform. Roughly 22% of emails get blocked or lost in spam but that still leaves an average of 78% messages delivered.</p>
-							<p>Not only does it have a high conversion rate, but great for increasing repeat traffic to your site. Emailing offers, new products and latest blog posts gives people a reason to come back to your website.</p>
-							<p>When you use another marketing channel, you rely on their service rules. Facebook can decide to decrease your reach you to encourage businesses to pay for ads. Google’s algorithm changes so fast you might be reducing your page rankings without even knowing. But with a large network of emails, you can still reach out to people and promote yourself. </p>
-							<p>Email marketing is also the best way to build personal relationships with your customers as you can easily create a batch of personalised emails targeted at a single customer. </p>
+							<p>Email marketing is still one of the most effective forms of digital marketing available, and can allow you to reach more of your target audience than any other marketing platform. Roughly 22% of emails get blocked or lost in spam filters, but that still leaves an average of 78% messages delivered.</p>
+							<p>Not only does it have a high conversion rate, but it's great for increasing repeat traffic to your site. Emailing offers, new products, or teasers of your latest blog posts, gives people a reason to come back to your website. Sometimes, just popping up in somebody's inbox at the right time in their buying cycle can be enough for them to make the decision to buy from you.</p>
+							<p>When you use other online marketing channels, you rely on their service rules. Facebook can decide to decrease your reach to encourage businesses to pay for ads. And Google's algorithm changes so fast you might be reducing your page rankings without even knowing. But with a large network of emails, you can still reach out to people and promote your business.</p>
+							<p>But it's also important to play by the rules. Most bulk mail sending platforms frown on the use of purchased email marketing lists, and you are likely to get penalised if your mailshots result in large amounts of bounces, unsubscribes or spam complaints. So it's important to build your own targeted lists of people that have interacted with your business in some way, as they will be familiar with your brand and less likely to view your emails as unsolicited.</p>
+							<p>There are lots of ways to build a list, from harvesting the email addresses of existing contacts in your inbox, to collecting leads through the use of 'content upgrades' on your website (see <a href-"https://deucecreative.co.uk/advent2016/#21" target="_blank">day 21</a>). You can then set up 'drip' campaigns to feed new subscribers with an automated series of useful emails that will help establish you as an expert in your field – and then once they're ready to purchase, you'll hopefully be at the front of their minds.</p>
+							<p>If you haven't yet tried email marketing for your business, start building a list in 2017 in see how effective it can be in engaging your target audience and driving sales.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Why should I optimise email newsletters for mobile?</h3>
+						<h3 class="content__title">Why Should I Optimise Email Newsletters for Mobile?</h3>
 						<div class="content__description">
-							<p>Unless you’ve been in hiding for the last 5 years you should be well aware by now just how popular mobile usage is for internet browsing. In 2014, it was reported that over 36% of mobile subscribers use iPhones or iPads to read email and 34% of subscribers only use mobile devices to read emails. That’s over a third of your audience!</p>
-							<p>Despite these stats, under 12% of email marketing campaigns use a responsive design optimised for mobile devices so sending out mobile friendly emails will set you apart from the crowd. Your email will make more of a memorable impression and give you a competitive edge against your competition that’s easy to achieve.</p>
-							<p>When designing an email campaign remember to keep things simple as email code does not work in the same way as modern websites. An email that works great in a desktop browser might break on a mobile screen. How a HTML email will display varies radically from one inbox to another and images are often blocked. There’s no point sending out an email that initially shows up with nothing so don’t overcomplicate your message with fancy unsupported effects and designs.</p>
-							<p>With so many marketing emails coming in to your customers inbox, it’s important to rise above the noise. Having an optimised email campaign will make your brand more memorable and a positive email experience will leave them more willing to visit your site and hear from you in the future. </p>
+							<p>Unless you’ve been in hiding for the last 5 years, you should be well aware by now just how popular mobile usage is for internet browsing. In 2014, it was reported that over 36% of mobile subscribers use iPhones or iPads to read email, and 34% of subscribers only use mobile devices to read emails. That's over a third of your audience!</p>
+							<p>Despite these stats, under 12% of email marketing campaigns use a responsive design optimised for mobile devices, so sending out mobile-friendly emails will set you apart from the crowd. Your email will not only be easier to read and digest, but it will make more of a memorable impression and give you a competitive edge against your competition that's easy to achieve.</p>
+							<p>When designing an email campaign, remember to keep things simple, as email code is not as well-supported as it is for websites. How an HTML email will display varies radically from one inbox to another, and images are often blocked. There's no point sending out an email that initially shows up with nothing, so don't overcomplicate your message with fancy unsupported effects and designs.</p>
+							<p>With so many marketing emails coming in to your customer's inbox, it's important to rise above the noise. Think carefully about subject lines, and consider personalisation to make the recipient feel targeted. Having an optimised email campaign will make your brand more memorable and a positive email experience will leave them more willing to visit your site and hear from you in the future.</p>
 						</div>
 						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">What are Deuce’s predictions for web in 2017?</h3>
+						<h3 class="content__title">What Are Our Predictions For the Web in 2017?</h3>
 						<div class="content__description">
-							<p>“Defiantly more video. We’ve seen a huge increase in video being used and that will continue to grow next year. We’ll see more gradients, interesting typography and less structured layouts as web designers are starting to stray away from conventions to emphasise individualistic branding. I think more companies will take on board reviews and live chat in an attempt to reach out to their customers further.“</p>
-							<p class="content__meta"> Dave</p>
-							<p>“Well Flash has been dropped completely by Google this year so we’ll continue to see it pushed out from websites further. Also from January 2017, new versions of Google's Chrome browser will mark web pages without  an SSL certificate as non-secure so we’ll start to move towards a more secure web from the beginning of next year.”</p>
-							<p>- Matt</p>
-							<p>“I think we’ll be seeing a lot more micro animations. The web is no longer static and web pages will continue to feel more dynamic thanks to these subtle animations. I believe we’ll also see more experimental navigation systems as designers our becoming more comfortable with responsive design and found inventive solutions to getting users around sites.”</p>
-							<p>- Eloise</p>
+							<p>"Definately more video. We've seen a huge increase in video being used in 2016, and that will continue to grow next year. We'll see more gradients, interesting typography, and less-structured layouts as web designers are starting to stray away from conventions to emphasise individualistic branding. We think more companies will take on board reviews and live chat in an attempt to reach out to their customers further."</p>
+							<p class="content__meta">Dave</p>
+							<p>"Well Flash has been dropped completely by Google this year, so we’ll continue to see it pushed out from websites further. Also in 2017, new versions of Google's Chrome browser will flag web pages without an SSL certificate as non-secure, so we'll start to see a move towards a more secure web starting early next year."</p>
+							<p class="content__meta">- Matt</p>
+							<p>"I think we'll be seeing a lot more micro animations. The web is no longer static, and web pages will continue to feel more dynamic thanks to these subtle animations. I believe we'll also see more experimental navigation systems as designers become more comfortable with responsive design and find inventive solutions to getting users around sites."</p>
+							<p class="content__meta">Eloise</p>
 						</div>
 					</div>
 					<div class="content__block">
-						<h3 class="content__title">Seasons Greetings from all at Deuce.</h3>
+						<h3 class="content__title">Merry Christmas from all at Deuce</h3>
 						<div class="content__description">
 							<img src="http://deucecreative.co.uk/wp-content/uploads/2016/12/img_3441_720.jpg" class="xmas-img">
-							<p>We hope you have enjoyed these marketing tips. Have a great Christmas and we look forward to seeing you in the new year.</p>
+							<p>We hope you've enjoyed our advent calendar of marketing tips, and are hungry to get your business in great shape for 2017. Have a very merry Christmas, and we look forward to seeing you in the new year.</p>
 						</div>
-						<p class="content__meta">Noam Chomsky</p>
+						<p class="content__meta">Deuce Creative</p>
 					</div>
 					<div class="content__number">0</div>
 					<a href="" class="btn-back" aria-label="Back to the grid view">&crarr;</a>
